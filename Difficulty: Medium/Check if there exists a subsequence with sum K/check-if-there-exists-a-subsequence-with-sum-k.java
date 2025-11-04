@@ -11,10 +11,12 @@ class Solution {
         if (s > sum) return false;
 
         // include current element
-        if (checkSum(i + 1, n, arr, s + arr[i], sum))
+        s+=arr[i];
+        if (checkSum(i + 1, n, arr, s , sum))
             return true;
 
         // exclude current element
+        s-=arr[i];
         if (checkSum(i + 1, n, arr, s, sum))
             return true;
 
