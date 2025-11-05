@@ -15,6 +15,7 @@ class Solution {
     }
     public static void funSub(int i,int target,List<List<Integer>> ans,List<Integer> res,int k,int l,int[] nums)
     {
+        
         if(res.size()==k)
         {
             if(target==0)
