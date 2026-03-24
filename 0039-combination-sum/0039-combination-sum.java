@@ -19,8 +19,10 @@ class Solution {
         if(arr[index]<=target)
         {
             ls.add(arr[index]);
-            generateCombo(ans,ls,arr,target-arr[index],index);
+            target=target-arr[index];
+            generateCombo(ans,ls,arr,target,index);
             ls.remove(ls.size()-1);
+            target=target+arr[index];
         }
         generateCombo(ans,ls,arr,target,index+1);
     }
