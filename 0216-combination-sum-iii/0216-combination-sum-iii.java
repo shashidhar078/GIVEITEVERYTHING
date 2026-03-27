@@ -1,39 +1,35 @@
 class Solution {
     public List<List<Integer>> combinationSum3(int k, int n) {
-        List<List<Integer>> ans=new ArrayList<>();
-        List<Integer> res=new ArrayList<>();
-        int arr[]=new int[9];
+        int[] nums=new int[9];
         int j=1;
-        for(int i=0;i<arr.length;i++)
-        {   
-            
-            arr[i]=j++;
+        for(int i=0;i<nums.length;i++)
+        {
+            nums[i]=j++;
         }
-        int l=arr.length;
-        funSub(0,n,ans,res,k,l,arr);
+        List<List<Integer>> ans=new ArrayList<>();
+        List<Integer> ls=new ArrayList<>();
+        comboNum(n,nums,ans,ls,0,k);
         return ans;
     }
-    public static void funSub(int i,int target,List<List<Integer>> ans,List<Integer> res,int k,int l,int[] nums)
+    public static void comboNum(int n,int[] nums,List<List<Integer>> ans,List<Integer> ls,int index,int k)
     {
-        
-        if(res.size()==k)
+        if(index==nums.length)
         {
-            if(target==0)
+            if(n==0)
             {
-                ans.add(new ArrayList<>(res));
+                if(ls.size()==k)
+                {
+                    ans.add(new ArrayList<>(ls));
+                }
             }
             return;
         }
-         if(i==l)
+        if(nums[index]<=n)
         {
-            return;
+            ls.add(nums[index]);
+            comboNum(n-nums[index],nums,ans,ls,index+1,k);
+            ls.remove(ls.size()-1);
         }
-        if(nums[i]<=target)
-        {
-            res.add(nums[i]);
-            funSub(i+1,target-nums[i],ans,res,k,l,nums);
-            res.remove(res.size()-1);
-        }
-        funSub(i+1,target,ans,res,k,l,nums);
+        comboNum(n,nums,ans,ls,index+1,k);
     }
 }
