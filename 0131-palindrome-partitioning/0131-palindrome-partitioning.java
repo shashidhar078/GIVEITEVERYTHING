@@ -1,30 +1,30 @@
 class Solution {
     public List<List<String>> partition(String s) {
-        List<List<String>> res=new ArrayList<>();
-        List<String> ans=new ArrayList<>();
-        palPartition(0,s,res,ans);
-        return res;        
+        List<List<String>> ans=new ArrayList<>();
+        List<String> ls=new ArrayList<>();
+        paPartition(ans,ls,s,0);
+        return ans;
     }
-    public static void palPartition(int ind,String s,List<List<String>> res,List<String> ans)
+    public static void paPartition(List<List<String>> ans,List<String> ls,String s,int index)
     {
-        if(ind==s.length())
+        if(index==s.length())
         {
-            res.add(new ArrayList<>(ans));
+            ans.add(new ArrayList<>(ls));
             return;
         }
-        for(int i=ind;i<s.length();i++)
+        for(int i=index;i<s.length();i++)
         {
-            if(isPalindrome(s,ind,i))
+            if(isPartition(s,index,i))
             {
-                ans.add(s.substring(ind,i+1));
-                palPartition(i+1,s,res,ans);
-                ans.remove(ans.size()-1);
+                ls.add(s.substring(index,i+1));
+                paPartition(ans,ls,s,i+1);
+                ls.remove(ls.size()-1);
             }
         }
     }
-    public static boolean isPalindrome(String s,int start,int end)
+    public static boolean isPartition(String s,int start,int end)
     {
-        while(start<=end)
+        while(start<end)
         {
             if(s.charAt(start)!=s.charAt(end))
             {
