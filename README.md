@@ -25,10 +25,19 @@
 | [0040-combination-sum-ii](https://github.com/shashidhar078/GIVEITEVERYTHING/tree/main/0040-combination-sum-ii/) | Medium |
 | [0078-subsets](https://github.com/shashidhar078/GIVEITEVERYTHING/tree/main/0078-subsets/) | Medium |
 | [0090-subsets-ii](https://github.com/shashidhar078/GIVEITEVERYTHING/tree/main/0090-subsets-ii/) | Medium |
+| [0131-palindrome-partitioning](https://github.com/shashidhar078/GIVEITEVERYTHING/tree/main/0131-palindrome-partitioning/) | Medium |
 | [0216-combination-sum-iii](https://github.com/shashidhar078/GIVEITEVERYTHING/tree/main/0216-combination-sum-iii/) | Medium |
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0078-subsets](https://github.com/shashidhar078/GIVEITEVERYTHING/tree/main/0078-subsets/) | Medium |
 | [0090-subsets-ii](https://github.com/shashidhar078/GIVEITEVERYTHING/tree/main/0090-subsets-ii/) | Medium |
+## String
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0131-palindrome-partitioning](https://github.com/shashidhar078/GIVEITEVERYTHING/tree/main/0131-palindrome-partitioning/) | Medium |
+## Dynamic Programming
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0131-palindrome-partitioning](https://github.com/shashidhar078/GIVEITEVERYTHING/tree/main/0131-palindrome-partitioning/) | Medium |
 <!---LeetCode Topics End-->
