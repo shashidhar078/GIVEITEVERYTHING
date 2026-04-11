@@ -1,68 +1,94 @@
 class Solution {
     public int sumSubarrayMins(int[] arr) {
-        // long total=0;
-        // int mod=1_000_000_007;
-        // for(int i=0;i<arr.length;i++)
-        // {
-        //     int minNum=Integer.MAX_VALUE;
-        //     // total+=arr[i];
-        //     for(int j=i;j<arr.length;j++)
-        //     {
-        //         minNum=Math.min(minNum,arr[j]);
-        //         total=(total+minNum)%mod;
-        //     }
-            
-        // }
-        // return (int)total;
-        //optimal solution 
-        int n=arr.length;
-        int[] prev=new int[n];
-        int[] next=new int[n];
-        next=nextEle(arr);
-        prev=prevEle(arr);
-        long total=0;
-        int mod=1_000_000_007;
-        int left=0;
+        //check for frequencies and calculate next smaller element and previous smaller element
+
+        int[] next=new int[arr.length];
+        int[] prev=new int[arr.length];
+        next=funNext(arr);
+        prev=funPrev(arr);
+        int mod = (int)1e9 + 7;
         int right=0;
+        int left=0;
+        long freq=0;
+        long val=0;
+        long total=0;
         for(int i=0;i<arr.length;i++)
         {
-            left=i-prev[i];
             right=next[i]-i;
-            total = (total + (long) left * right * arr[i]) % mod;
+            left=i-prev[i];
+
+            freq=right*left*1L;
+
+            val=(freq*arr[i])%mod;
+
+            total=((total+val)%mod);
         }
         return (int)total;
-        
     }
-    public static int[] nextEle(int[] arr)
+    public static int[] funNext(int[] arr)
     {
         Stack<Integer> st=new Stack<>();
-        int n=arr.length;
-        int[] ans=new int[n];
+        int[] next=new int[arr.length];
         for(int i=arr.length-1;i>=0;i--)
         {
-           while(!st.isEmpty()&&arr[st.peek()]>=arr[i])
-           {
-                st.pop();
-           }
-           ans[i]=st.isEmpty()?n:st.peek();
-           st.push(i);
+            if(st.isEmpty())
+            {
+                next[i]=arr.length;
+            }
+            else if(!st.isEmpty()&&arr[st.peek()]<arr[i])
+            {
+                next[i]=st.peek();
+            }
+            else if(!st.isEmpty()&&arr[st.peek()]>=arr[i])
+            {
+                while(!st.isEmpty()&&arr[st.peek()]>=arr[i])
+                {
+                    st.pop();
+                }
+                if(st.isEmpty())
+                {
+                    next[i]=arr.length;
+                }
+                else
+                {
+                    next[i]=st.peek();
+                }
+            }
+            st.push(i);
         }
-        return ans;
+        return next;
     }
-    public static int[] prevEle(int[] arr)
+    public static int[] funPrev(int[] arr)
     {
         Stack<Integer> st=new Stack<>();
-        int n=arr.length;
-        int[] ans=new int[n];
+        int[] prev=new int[arr.length];
         for(int i=0;i<arr.length;i++)
         {
-           while(!st.isEmpty()&&arr[st.peek()]>arr[i])
-           {
-                st.pop();
-           }
-           ans[i]=st.isEmpty()?-1:st.peek();
-           st.push(i);
+            if(st.isEmpty())
+            {
+                prev[i]=-1;
+            }
+            else if(!st.isEmpty()&&arr[st.peek()]<=arr[i])
+            {
+                prev[i]=st.peek();
+            }
+            else if(!st.isEmpty()&&arr[st.peek()]>arr[i])
+            {
+                while(!st.isEmpty()&&arr[st.peek()]>arr[i])
+                {
+                    st.pop();
+                }
+                if(st.isEmpty())
+                {
+                    prev[i]=-1;
+                }
+                else
+                {
+                    prev[i]=st.peek();
+                }
+            }
+            st.push(i);
         }
-        return ans;
+        return prev;
     }
 }
