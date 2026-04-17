@@ -16,6 +16,7 @@
 | [0039-combination-sum](https://github.com/shashidhar078/GIVEITEVERYTHING/tree/main/0039-combination-sum/) | Medium |
 | [0040-combination-sum-ii](https://github.com/shashidhar078/GIVEITEVERYTHING/tree/main/0040-combination-sum-ii/) | Medium |
 | [0078-subsets](https://github.com/shashidhar078/GIVEITEVERYTHING/tree/main/0078-subsets/) | Medium |
+| [0084-largest-rectangle-in-histogram](https://github.com/shashidhar078/GIVEITEVERYTHING/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
 | [0090-subsets-ii](https://github.com/shashidhar078/GIVEITEVERYTHING/tree/main/0090-subsets-ii/) | Medium |
 | [0216-combination-sum-iii](https://github.com/shashidhar078/GIVEITEVERYTHING/tree/main/0216-combination-sum-iii/) | Medium |
 | [0496-next-greater-element-i](https://github.com/shashidhar078/GIVEITEVERYTHING/tree/main/0496-next-greater-element-i/) | Easy |
@@ -52,6 +53,7 @@
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/shashidhar078/GIVEITEVERYTHING/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
 | [0402-remove-k-digits](https://github.com/shashidhar078/GIVEITEVERYTHING/tree/main/0402-remove-k-digits/) | Medium |
 | [0496-next-greater-element-i](https://github.com/shashidhar078/GIVEITEVERYTHING/tree/main/0496-next-greater-element-i/) | Easy |
 | [0735-asteroid-collision](https://github.com/shashidhar078/GIVEITEVERYTHING/tree/main/0735-asteroid-collision/) | Medium |
@@ -59,6 +61,7 @@
 ## Monotonic Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/shashidhar078/GIVEITEVERYTHING/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
 | [0402-remove-k-digits](https://github.com/shashidhar078/GIVEITEVERYTHING/tree/main/0402-remove-k-digits/) | Medium |
 | [0496-next-greater-element-i](https://github.com/shashidhar078/GIVEITEVERYTHING/tree/main/0496-next-greater-element-i/) | Easy |
 | [0907-sum-of-subarray-minimums](https://github.com/shashidhar078/GIVEITEVERYTHING/tree/main/0907-sum-of-subarray-minimums/) | Medium |
