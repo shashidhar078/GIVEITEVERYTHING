@@ -20,6 +20,7 @@
 | [0085-maximal-rectangle](https://github.com/shashidhar078/GIVEITEVERYTHING/tree/main/0085-maximal-rectangle/) | Hard |
 | [0090-subsets-ii](https://github.com/shashidhar078/GIVEITEVERYTHING/tree/main/0090-subsets-ii/) | Medium |
 | [0216-combination-sum-iii](https://github.com/shashidhar078/GIVEITEVERYTHING/tree/main/0216-combination-sum-iii/) | Medium |
+| [0239-sliding-window-maximum](https://github.com/shashidhar078/GIVEITEVERYTHING/tree/main/0239-sliding-window-maximum/) | Hard |
 | [0496-next-greater-element-i](https://github.com/shashidhar078/GIVEITEVERYTHING/tree/main/0496-next-greater-element-i/) | Easy |
 | [0735-asteroid-collision](https://github.com/shashidhar078/GIVEITEVERYTHING/tree/main/0735-asteroid-collision/) | Medium |
 | [0907-sum-of-subarray-minimums](https://github.com/shashidhar078/GIVEITEVERYTHING/tree/main/0907-sum-of-subarray-minimums/) | Medium |
@@ -81,4 +82,20 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0085-maximal-rectangle](https://github.com/shashidhar078/GIVEITEVERYTHING/tree/main/0085-maximal-rectangle/) | Hard |
+## Queue
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0239-sliding-window-maximum](https://github.com/shashidhar078/GIVEITEVERYTHING/tree/main/0239-sliding-window-maximum/) | Hard |
+## Sliding Window
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0239-sliding-window-maximum](https://github.com/shashidhar078/GIVEITEVERYTHING/tree/main/0239-sliding-window-maximum/) | Hard |
+## Heap (Priority Queue)
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0239-sliding-window-maximum](https://github.com/shashidhar078/GIVEITEVERYTHING/tree/main/0239-sliding-window-maximum/) | Hard |
+## Monotonic Queue
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0239-sliding-window-maximum](https://github.com/shashidhar078/GIVEITEVERYTHING/tree/main/0239-sliding-window-maximum/) | Hard |
 <!---LeetCode Topics End-->
