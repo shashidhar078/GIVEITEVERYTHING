@@ -36,7 +36,7 @@ class StockSpanner {
         {
             st.pop();
         }
-        count=st.isEmpty()?1:i-st.peek();
+        count=st.isEmpty()?i+1:i-st.peek();
         if(st.isEmpty()||arr.get(st.peek())>price)
         {
             st.push(i);
