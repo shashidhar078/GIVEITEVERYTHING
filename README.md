@@ -52,6 +52,7 @@
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0146-lru-cache](https://github.com/shashidhar078/GIVEITEVERYTHING/tree/main/0146-lru-cache/) | Medium |
 | [0496-next-greater-element-i](https://github.com/shashidhar078/GIVEITEVERYTHING/tree/main/0496-next-greater-element-i/) | Easy |
 ## Stack
 | Problem Name | Difficulty |
@@ -103,9 +104,18 @@
 ## Design
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0146-lru-cache](https://github.com/shashidhar078/GIVEITEVERYTHING/tree/main/0146-lru-cache/) | Medium |
 | [0901-online-stock-span](https://github.com/shashidhar078/GIVEITEVERYTHING/tree/main/0901-online-stock-span/) | Medium |
 ## Data Stream
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0901-online-stock-span](https://github.com/shashidhar078/GIVEITEVERYTHING/tree/main/0901-online-stock-span/) | Medium |
+## Linked List
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0146-lru-cache](https://github.com/shashidhar078/GIVEITEVERYTHING/tree/main/0146-lru-cache/) | Medium |
+## Doubly-Linked List
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0146-lru-cache](https://github.com/shashidhar078/GIVEITEVERYTHING/tree/main/0146-lru-cache/) | Medium |
 <!---LeetCode Topics End-->
