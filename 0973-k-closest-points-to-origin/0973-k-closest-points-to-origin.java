@@ -17,10 +17,10 @@ class Solution {
         for(int i=0;i<points.length;i++)
         {
             pq.add(points[i]);
-            // if(pq.size()>k)
-            // {
-            //     pq.remove();
-            // }
+            if(pq.size()>k)
+            {
+                pq.remove();
+            }
         }
         int[][] res=new int[k][2];
 
