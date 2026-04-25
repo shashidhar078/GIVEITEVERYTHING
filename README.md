@@ -28,6 +28,7 @@
 | [0912-sort-an-array](https://github.com/shashidhar078/GIVEITEVERYTHING/tree/main/0912-sort-an-array/) | Medium |
 | [0973-k-closest-points-to-origin](https://github.com/shashidhar078/GIVEITEVERYTHING/tree/main/0973-k-closest-points-to-origin/) | Medium |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/shashidhar078/GIVEITEVERYTHING/tree/main/1337-the-k-weakest-rows-in-a-matrix/) | Easy |
+| [2208-minimum-operations-to-halve-array-sum](https://github.com/shashidhar078/GIVEITEVERYTHING/tree/main/2208-minimum-operations-to-halve-array-sum/) | Medium |
 ## Backtracking
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -85,6 +86,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0402-remove-k-digits](https://github.com/shashidhar078/GIVEITEVERYTHING/tree/main/0402-remove-k-digits/) | Medium |
+| [2208-minimum-operations-to-halve-array-sum](https://github.com/shashidhar078/GIVEITEVERYTHING/tree/main/2208-minimum-operations-to-halve-array-sum/) | Medium |
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -106,6 +108,7 @@
 | [0912-sort-an-array](https://github.com/shashidhar078/GIVEITEVERYTHING/tree/main/0912-sort-an-array/) | Medium |
 | [0973-k-closest-points-to-origin](https://github.com/shashidhar078/GIVEITEVERYTHING/tree/main/0973-k-closest-points-to-origin/) | Medium |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/shashidhar078/GIVEITEVERYTHING/tree/main/1337-the-k-weakest-rows-in-a-matrix/) | Easy |
+| [2208-minimum-operations-to-halve-array-sum](https://github.com/shashidhar078/GIVEITEVERYTHING/tree/main/2208-minimum-operations-to-halve-array-sum/) | Medium |
 ## Monotonic Queue
 | Problem Name | Difficulty |
 | ------- | ------- |
