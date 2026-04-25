@@ -15,15 +15,15 @@ class Solution {
         }
         Double currentSum=totalSum;
         Double val=0.0;
-        // Double reducedSum=0.0;
+        Double reducedSum=0.0;
         int count=0;
-        while(currentSum>(totalSum/2))
+        while(reducedSum<(totalSum/2))
         {
            val=pq.poll();
            currentSum-=(val/2);
            val=(val/2);
            pq.add(val);
-        //    reducedSum=totalSum-currentSum;
+           reducedSum=totalSum-currentSum;
            count++;
         }
         return count;
