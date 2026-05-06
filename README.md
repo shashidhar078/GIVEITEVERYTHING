@@ -28,6 +28,7 @@
 | [0907-sum-of-subarray-minimums](https://github.com/shashidhar078/GIVEITEVERYTHING/tree/main/0907-sum-of-subarray-minimums/) | Medium |
 | [0912-sort-an-array](https://github.com/shashidhar078/GIVEITEVERYTHING/tree/main/0912-sort-an-array/) | Medium |
 | [0973-k-closest-points-to-origin](https://github.com/shashidhar078/GIVEITEVERYTHING/tree/main/0973-k-closest-points-to-origin/) | Medium |
+| [1331-rank-transform-of-an-array](https://github.com/shashidhar078/GIVEITEVERYTHING/tree/main/1331-rank-transform-of-an-array/) | Easy |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/shashidhar078/GIVEITEVERYTHING/tree/main/1337-the-k-weakest-rows-in-a-matrix/) | Easy |
 | [2208-minimum-operations-to-halve-array-sum](https://github.com/shashidhar078/GIVEITEVERYTHING/tree/main/2208-minimum-operations-to-halve-array-sum/) | Medium |
 ## Backtracking
@@ -60,6 +61,7 @@
 | ------- | ------- |
 | [0146-lru-cache](https://github.com/shashidhar078/GIVEITEVERYTHING/tree/main/0146-lru-cache/) | Medium |
 | [0496-next-greater-element-i](https://github.com/shashidhar078/GIVEITEVERYTHING/tree/main/0496-next-greater-element-i/) | Easy |
+| [1331-rank-transform-of-an-array](https://github.com/shashidhar078/GIVEITEVERYTHING/tree/main/1331-rank-transform-of-an-array/) | Easy |
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -149,6 +151,7 @@
 | [0215-kth-largest-element-in-an-array](https://github.com/shashidhar078/GIVEITEVERYTHING/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0912-sort-an-array](https://github.com/shashidhar078/GIVEITEVERYTHING/tree/main/0912-sort-an-array/) | Medium |
 | [0973-k-closest-points-to-origin](https://github.com/shashidhar078/GIVEITEVERYTHING/tree/main/0973-k-closest-points-to-origin/) | Medium |
+| [1331-rank-transform-of-an-array](https://github.com/shashidhar078/GIVEITEVERYTHING/tree/main/1331-rank-transform-of-an-array/) | Easy |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/shashidhar078/GIVEITEVERYTHING/tree/main/1337-the-k-weakest-rows-in-a-matrix/) | Easy |
 ## Merge Sort
 | Problem Name | Difficulty |
