@@ -26,6 +26,7 @@
 | [0496-next-greater-element-i](https://github.com/shashidhar078/GIVEITEVERYTHING/tree/main/0496-next-greater-element-i/) | Easy |
 | [0621-task-scheduler](https://github.com/shashidhar078/GIVEITEVERYTHING/tree/main/0621-task-scheduler/) | Medium |
 | [0735-asteroid-collision](https://github.com/shashidhar078/GIVEITEVERYTHING/tree/main/0735-asteroid-collision/) | Medium |
+| [0846-hand-of-straights](https://github.com/shashidhar078/GIVEITEVERYTHING/tree/main/0846-hand-of-straights/) | Medium |
 | [0907-sum-of-subarray-minimums](https://github.com/shashidhar078/GIVEITEVERYTHING/tree/main/0907-sum-of-subarray-minimums/) | Medium |
 | [0912-sort-an-array](https://github.com/shashidhar078/GIVEITEVERYTHING/tree/main/0912-sort-an-array/) | Medium |
 | [0973-k-closest-points-to-origin](https://github.com/shashidhar078/GIVEITEVERYTHING/tree/main/0973-k-closest-points-to-origin/) | Medium |
@@ -63,6 +64,7 @@
 | [0146-lru-cache](https://github.com/shashidhar078/GIVEITEVERYTHING/tree/main/0146-lru-cache/) | Medium |
 | [0496-next-greater-element-i](https://github.com/shashidhar078/GIVEITEVERYTHING/tree/main/0496-next-greater-element-i/) | Easy |
 | [0621-task-scheduler](https://github.com/shashidhar078/GIVEITEVERYTHING/tree/main/0621-task-scheduler/) | Medium |
+| [0846-hand-of-straights](https://github.com/shashidhar078/GIVEITEVERYTHING/tree/main/0846-hand-of-straights/) | Medium |
 | [1331-rank-transform-of-an-array](https://github.com/shashidhar078/GIVEITEVERYTHING/tree/main/1331-rank-transform-of-an-array/) | Easy |
 ## Stack
 | Problem Name | Difficulty |
@@ -92,6 +94,7 @@
 | ------- | ------- |
 | [0402-remove-k-digits](https://github.com/shashidhar078/GIVEITEVERYTHING/tree/main/0402-remove-k-digits/) | Medium |
 | [0621-task-scheduler](https://github.com/shashidhar078/GIVEITEVERYTHING/tree/main/0621-task-scheduler/) | Medium |
+| [0846-hand-of-straights](https://github.com/shashidhar078/GIVEITEVERYTHING/tree/main/0846-hand-of-straights/) | Medium |
 | [2208-minimum-operations-to-halve-array-sum](https://github.com/shashidhar078/GIVEITEVERYTHING/tree/main/2208-minimum-operations-to-halve-array-sum/) | Medium |
 ## Matrix
 | Problem Name | Difficulty |
@@ -154,6 +157,7 @@
 | ------- | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/shashidhar078/GIVEITEVERYTHING/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0621-task-scheduler](https://github.com/shashidhar078/GIVEITEVERYTHING/tree/main/0621-task-scheduler/) | Medium |
+| [0846-hand-of-straights](https://github.com/shashidhar078/GIVEITEVERYTHING/tree/main/0846-hand-of-straights/) | Medium |
 | [0912-sort-an-array](https://github.com/shashidhar078/GIVEITEVERYTHING/tree/main/0912-sort-an-array/) | Medium |
 | [0973-k-closest-points-to-origin](https://github.com/shashidhar078/GIVEITEVERYTHING/tree/main/0973-k-closest-points-to-origin/) | Medium |
 | [1331-rank-transform-of-an-array](https://github.com/shashidhar078/GIVEITEVERYTHING/tree/main/1331-rank-transform-of-an-array/) | Easy |
