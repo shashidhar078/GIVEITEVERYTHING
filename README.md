@@ -29,6 +29,7 @@
 | [0621-task-scheduler](https://github.com/shashidhar078/GIVEITEVERYTHING/tree/main/0621-task-scheduler/) | Medium |
 | [0735-asteroid-collision](https://github.com/shashidhar078/GIVEITEVERYTHING/tree/main/0735-asteroid-collision/) | Medium |
 | [0846-hand-of-straights](https://github.com/shashidhar078/GIVEITEVERYTHING/tree/main/0846-hand-of-straights/) | Medium |
+| [0860-lemonade-change](https://github.com/shashidhar078/GIVEITEVERYTHING/tree/main/0860-lemonade-change/) | Easy |
 | [0907-sum-of-subarray-minimums](https://github.com/shashidhar078/GIVEITEVERYTHING/tree/main/0907-sum-of-subarray-minimums/) | Medium |
 | [0912-sort-an-array](https://github.com/shashidhar078/GIVEITEVERYTHING/tree/main/0912-sort-an-array/) | Medium |
 | [0973-k-closest-points-to-origin](https://github.com/shashidhar078/GIVEITEVERYTHING/tree/main/0973-k-closest-points-to-origin/) | Medium |
@@ -101,6 +102,7 @@
 | [0455-assign-cookies](https://github.com/shashidhar078/GIVEITEVERYTHING/tree/main/0455-assign-cookies/) | Easy |
 | [0621-task-scheduler](https://github.com/shashidhar078/GIVEITEVERYTHING/tree/main/0621-task-scheduler/) | Medium |
 | [0846-hand-of-straights](https://github.com/shashidhar078/GIVEITEVERYTHING/tree/main/0846-hand-of-straights/) | Medium |
+| [0860-lemonade-change](https://github.com/shashidhar078/GIVEITEVERYTHING/tree/main/0860-lemonade-change/) | Easy |
 | [1296-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/shashidhar078/GIVEITEVERYTHING/tree/main/1296-divide-array-in-sets-of-k-consecutive-numbers/) | Medium |
 | [2208-minimum-operations-to-halve-array-sum](https://github.com/shashidhar078/GIVEITEVERYTHING/tree/main/2208-minimum-operations-to-halve-array-sum/) | Medium |
 ## Matrix
