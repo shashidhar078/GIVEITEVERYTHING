@@ -14,6 +14,7 @@
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0031-next-permutation](https://github.com/shashidhar078/GIVEITEVERYTHING/tree/main/0031-next-permutation/) | Medium |
 | [0039-combination-sum](https://github.com/shashidhar078/GIVEITEVERYTHING/tree/main/0039-combination-sum/) | Medium |
 | [0040-combination-sum-ii](https://github.com/shashidhar078/GIVEITEVERYTHING/tree/main/0040-combination-sum-ii/) | Medium |
 | [0073-set-matrix-zeroes](https://github.com/shashidhar078/GIVEITEVERYTHING/tree/main/0073-set-matrix-zeroes/) | Medium |
@@ -235,5 +236,6 @@
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0031-next-permutation](https://github.com/shashidhar078/GIVEITEVERYTHING/tree/main/0031-next-permutation/) | Medium |
 | [0455-assign-cookies](https://github.com/shashidhar078/GIVEITEVERYTHING/tree/main/0455-assign-cookies/) | Easy |
 <!---LeetCode Topics End-->
