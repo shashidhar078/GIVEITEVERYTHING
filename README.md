@@ -17,6 +17,7 @@
 | [0031-next-permutation](https://github.com/shashidhar078/GIVEITEVERYTHING/tree/main/0031-next-permutation/) | Medium |
 | [0039-combination-sum](https://github.com/shashidhar078/GIVEITEVERYTHING/tree/main/0039-combination-sum/) | Medium |
 | [0040-combination-sum-ii](https://github.com/shashidhar078/GIVEITEVERYTHING/tree/main/0040-combination-sum-ii/) | Medium |
+| [0053-maximum-subarray](https://github.com/shashidhar078/GIVEITEVERYTHING/tree/main/0053-maximum-subarray/) | Medium |
 | [0073-set-matrix-zeroes](https://github.com/shashidhar078/GIVEITEVERYTHING/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0075-sort-colors](https://github.com/shashidhar078/GIVEITEVERYTHING/tree/main/0075-sort-colors/) | Medium |
 | [0078-subsets](https://github.com/shashidhar078/GIVEITEVERYTHING/tree/main/0078-subsets/) | Medium |
@@ -66,6 +67,7 @@
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0053-maximum-subarray](https://github.com/shashidhar078/GIVEITEVERYTHING/tree/main/0053-maximum-subarray/) | Medium |
 | [0085-maximal-rectangle](https://github.com/shashidhar078/GIVEITEVERYTHING/tree/main/0085-maximal-rectangle/) | Hard |
 | [0118-pascals-triangle](https://github.com/shashidhar078/GIVEITEVERYTHING/tree/main/0118-pascals-triangle/) | Easy |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/shashidhar078/GIVEITEVERYTHING/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
@@ -175,6 +177,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/shashidhar078/GIVEITEVERYTHING/tree/main/0023-merge-k-sorted-lists/) | Hard |
+| [0053-maximum-subarray](https://github.com/shashidhar078/GIVEITEVERYTHING/tree/main/0053-maximum-subarray/) | Medium |
 | [0215-kth-largest-element-in-an-array](https://github.com/shashidhar078/GIVEITEVERYTHING/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0347-top-k-frequent-elements](https://github.com/shashidhar078/GIVEITEVERYTHING/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0912-sort-an-array](https://github.com/shashidhar078/GIVEITEVERYTHING/tree/main/0912-sort-an-array/) | Medium |
