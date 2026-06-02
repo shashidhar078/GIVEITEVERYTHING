@@ -24,6 +24,7 @@
 | [0085-maximal-rectangle](https://github.com/shashidhar078/GIVEITEVERYTHING/tree/main/0085-maximal-rectangle/) | Hard |
 | [0090-subsets-ii](https://github.com/shashidhar078/GIVEITEVERYTHING/tree/main/0090-subsets-ii/) | Medium |
 | [0118-pascals-triangle](https://github.com/shashidhar078/GIVEITEVERYTHING/tree/main/0118-pascals-triangle/) | Easy |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/shashidhar078/GIVEITEVERYTHING/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0215-kth-largest-element-in-an-array](https://github.com/shashidhar078/GIVEITEVERYTHING/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0216-combination-sum-iii](https://github.com/shashidhar078/GIVEITEVERYTHING/tree/main/0216-combination-sum-iii/) | Medium |
 | [0239-sliding-window-maximum](https://github.com/shashidhar078/GIVEITEVERYTHING/tree/main/0239-sliding-window-maximum/) | Hard |
@@ -67,6 +68,7 @@
 | ------- | ------- |
 | [0085-maximal-rectangle](https://github.com/shashidhar078/GIVEITEVERYTHING/tree/main/0085-maximal-rectangle/) | Hard |
 | [0118-pascals-triangle](https://github.com/shashidhar078/GIVEITEVERYTHING/tree/main/0118-pascals-triangle/) | Easy |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/shashidhar078/GIVEITEVERYTHING/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0131-palindrome-partitioning](https://github.com/shashidhar078/GIVEITEVERYTHING/tree/main/0131-palindrome-partitioning/) | Medium |
 | [0646-maximum-length-of-pair-chain](https://github.com/shashidhar078/GIVEITEVERYTHING/tree/main/0646-maximum-length-of-pair-chain/) | Medium |
 | [0678-valid-parenthesis-string](https://github.com/shashidhar078/GIVEITEVERYTHING/tree/main/0678-valid-parenthesis-string/) | Medium |
