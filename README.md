@@ -17,6 +17,7 @@
 | [0031-next-permutation](https://github.com/shashidhar078/GIVEITEVERYTHING/tree/main/0031-next-permutation/) | Medium |
 | [0039-combination-sum](https://github.com/shashidhar078/GIVEITEVERYTHING/tree/main/0039-combination-sum/) | Medium |
 | [0040-combination-sum-ii](https://github.com/shashidhar078/GIVEITEVERYTHING/tree/main/0040-combination-sum-ii/) | Medium |
+| [0045-jump-game-ii](https://github.com/shashidhar078/GIVEITEVERYTHING/tree/main/0045-jump-game-ii/) | Medium |
 | [0053-maximum-subarray](https://github.com/shashidhar078/GIVEITEVERYTHING/tree/main/0053-maximum-subarray/) | Medium |
 | [0055-jump-game](https://github.com/shashidhar078/GIVEITEVERYTHING/tree/main/0055-jump-game/) | Medium |
 | [0073-set-matrix-zeroes](https://github.com/shashidhar078/GIVEITEVERYTHING/tree/main/0073-set-matrix-zeroes/) | Medium |
@@ -69,6 +70,7 @@
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0045-jump-game-ii](https://github.com/shashidhar078/GIVEITEVERYTHING/tree/main/0045-jump-game-ii/) | Medium |
 | [0053-maximum-subarray](https://github.com/shashidhar078/GIVEITEVERYTHING/tree/main/0053-maximum-subarray/) | Medium |
 | [0055-jump-game](https://github.com/shashidhar078/GIVEITEVERYTHING/tree/main/0055-jump-game/) | Medium |
 | [0085-maximal-rectangle](https://github.com/shashidhar078/GIVEITEVERYTHING/tree/main/0085-maximal-rectangle/) | Hard |
@@ -116,6 +118,7 @@
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0045-jump-game-ii](https://github.com/shashidhar078/GIVEITEVERYTHING/tree/main/0045-jump-game-ii/) | Medium |
 | [0055-jump-game](https://github.com/shashidhar078/GIVEITEVERYTHING/tree/main/0055-jump-game/) | Medium |
 | [0402-remove-k-digits](https://github.com/shashidhar078/GIVEITEVERYTHING/tree/main/0402-remove-k-digits/) | Medium |
 | [0455-assign-cookies](https://github.com/shashidhar078/GIVEITEVERYTHING/tree/main/0455-assign-cookies/) | Easy |
