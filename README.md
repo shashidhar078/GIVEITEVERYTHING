@@ -28,6 +28,7 @@
 | [0090-subsets-ii](https://github.com/shashidhar078/GIVEITEVERYTHING/tree/main/0090-subsets-ii/) | Medium |
 | [0118-pascals-triangle](https://github.com/shashidhar078/GIVEITEVERYTHING/tree/main/0118-pascals-triangle/) | Easy |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/shashidhar078/GIVEITEVERYTHING/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
+| [0135-candy](https://github.com/shashidhar078/GIVEITEVERYTHING/tree/main/0135-candy/) | Hard |
 | [0215-kth-largest-element-in-an-array](https://github.com/shashidhar078/GIVEITEVERYTHING/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0216-combination-sum-iii](https://github.com/shashidhar078/GIVEITEVERYTHING/tree/main/0216-combination-sum-iii/) | Medium |
 | [0229-majority-element-ii](https://github.com/shashidhar078/GIVEITEVERYTHING/tree/main/0229-majority-element-ii/) | Medium |
@@ -122,6 +123,7 @@
 | ------- | ------- |
 | [0045-jump-game-ii](https://github.com/shashidhar078/GIVEITEVERYTHING/tree/main/0045-jump-game-ii/) | Medium |
 | [0055-jump-game](https://github.com/shashidhar078/GIVEITEVERYTHING/tree/main/0055-jump-game/) | Medium |
+| [0135-candy](https://github.com/shashidhar078/GIVEITEVERYTHING/tree/main/0135-candy/) | Hard |
 | [0402-remove-k-digits](https://github.com/shashidhar078/GIVEITEVERYTHING/tree/main/0402-remove-k-digits/) | Medium |
 | [0455-assign-cookies](https://github.com/shashidhar078/GIVEITEVERYTHING/tree/main/0455-assign-cookies/) | Easy |
 | [0621-task-scheduler](https://github.com/shashidhar078/GIVEITEVERYTHING/tree/main/0621-task-scheduler/) | Medium |
