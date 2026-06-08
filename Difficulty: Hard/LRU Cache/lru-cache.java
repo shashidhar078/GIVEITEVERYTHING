@@ -1,82 +1,87 @@
 class LRUCache {
 
-
-    class Node
-    {
-        int key=0;
-        int val=0;
+    static class Node{
+         int key;
+         int val;
         
-        Node next;
-        Node prev;
-        
-        public Node(int key,int val)
+         Node prev;
+         Node next;
+        Node(int key_,int val_)
         {
-            this.key=key;
-            this.val=val;
+            key=key_;
+            val=val_;
         }
+        
     }
     
-    Node head=new Node(-1,-1);
-    Node tail=new Node(-1,-1);
+    static int capacity=0;
     
-    HashMap<Integer,Node> mpp=new HashMap<>();
+    static Node head=new Node(-1,-1);
+    static Node tail=new Node(-1,-1);
     
-    int capacity=0;
+    static HashMap<Integer,Node> hs=new HashMap<>();
     LRUCache(int cap) {
         // code here
         capacity=cap;
+         hs = new HashMap<>();   // RESET
+
+    head = new Node(-1, -1); // RESET
+    tail = new Node(-1, -1);
         head.next=tail;
         tail.prev=head;
     }
-
-    public int get(int key) {
-
-        
-        //  code here
-        
-        if(mpp.containsKey(key))
-        {
-            Node res=mpp.get(key);
-            int v=res.val;
-            deleteNode(res);
-            insertAfterHead(res);
-            return v;
-        }
-        return -1;
-    }
-
-        
-    public  void put(int key, int value) {
-        //  code here
-        if(mpp.containsKey(key))
-        {
-            Node res=mpp.get(key);
-            deleteNode(res);
-            mpp.remove(res.key);
-        }
-        if(capacity==mpp.size())
-        {
-             Node res=tail.prev;
-            deleteNode(res);
-            mpp.remove(res.key);
-        }
-        insertAfterHead(new Node(key,value));
-        mpp.put(key,head.next);
+    
+    public static void addNode(Node newNode)
+    {
+            Node temp=head.next;
+            newNode.next=temp;
+            newNode.prev=head;
+            
+            head.next=newNode;
+            temp.prev=newNode;
     }
     
-    public  void deleteNode(Node curr)
+    
+    public static void deleteNode(Node delNode)
     {
-        Node delPrev=curr.prev;
-        Node delNext=curr.next;
+        Node delPrev=delNode.prev;
+        Node delNext=delNode.next;
         
         delPrev.next=delNext;
         delNext.prev=delPrev;
     }
-    public  void insertAfterHead(Node curr)
-    {
-        curr.prev=head;
-        curr.next=head.next;
-        head.next.prev=curr;
-        head.next=curr;
+    
+        
+     public static int get(int key) {
+
+        if(!hs.containsKey(key)) return -1;
+
+        Node node = hs.get(key);
+
+        deleteNode(node);
+        addNode(node);
+
+        return node.val;
+    }
+        
+    public static void put(int key, int value) {
+        //  code here
+        if(hs.containsKey(key))
+        {
+            Node resNode=hs.get(key);
+            deleteNode(resNode);
+            addNode(resNode);
+            resNode.val=value;
+            return;
+        }
+        if(capacity>0&&hs.size()==capacity)
+        {
+            Node res=tail.prev;
+            deleteNode(res);
+            hs.remove(res.key);
+        }
+        Node newNode=new Node(key,value);
+        addNode(newNode);
+        hs.put(key,newNode);
     }
 }
