@@ -37,6 +37,7 @@
 | [0229-majority-element-ii](https://github.com/shashidhar078/GIVEITEVERYTHING/tree/main/0229-majority-element-ii/) | Medium |
 | [0239-sliding-window-maximum](https://github.com/shashidhar078/GIVEITEVERYTHING/tree/main/0239-sliding-window-maximum/) | Hard |
 | [0347-top-k-frequent-elements](https://github.com/shashidhar078/GIVEITEVERYTHING/tree/main/0347-top-k-frequent-elements/) | Medium |
+| [0435-non-overlapping-intervals](https://github.com/shashidhar078/GIVEITEVERYTHING/tree/main/0435-non-overlapping-intervals/) | Medium |
 | [0455-assign-cookies](https://github.com/shashidhar078/GIVEITEVERYTHING/tree/main/0455-assign-cookies/) | Easy |
 | [0496-next-greater-element-i](https://github.com/shashidhar078/GIVEITEVERYTHING/tree/main/0496-next-greater-element-i/) | Easy |
 | [0560-subarray-sum-equals-k](https://github.com/shashidhar078/GIVEITEVERYTHING/tree/main/0560-subarray-sum-equals-k/) | Medium |
@@ -83,6 +84,7 @@
 | [0118-pascals-triangle](https://github.com/shashidhar078/GIVEITEVERYTHING/tree/main/0118-pascals-triangle/) | Easy |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/shashidhar078/GIVEITEVERYTHING/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0131-palindrome-partitioning](https://github.com/shashidhar078/GIVEITEVERYTHING/tree/main/0131-palindrome-partitioning/) | Medium |
+| [0435-non-overlapping-intervals](https://github.com/shashidhar078/GIVEITEVERYTHING/tree/main/0435-non-overlapping-intervals/) | Medium |
 | [0646-maximum-length-of-pair-chain](https://github.com/shashidhar078/GIVEITEVERYTHING/tree/main/0646-maximum-length-of-pair-chain/) | Medium |
 | [0678-valid-parenthesis-string](https://github.com/shashidhar078/GIVEITEVERYTHING/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [0907-sum-of-subarray-minimums](https://github.com/shashidhar078/GIVEITEVERYTHING/tree/main/0907-sum-of-subarray-minimums/) | Medium |
@@ -131,6 +133,7 @@
 | [0055-jump-game](https://github.com/shashidhar078/GIVEITEVERYTHING/tree/main/0055-jump-game/) | Medium |
 | [0135-candy](https://github.com/shashidhar078/GIVEITEVERYTHING/tree/main/0135-candy/) | Hard |
 | [0402-remove-k-digits](https://github.com/shashidhar078/GIVEITEVERYTHING/tree/main/0402-remove-k-digits/) | Medium |
+| [0435-non-overlapping-intervals](https://github.com/shashidhar078/GIVEITEVERYTHING/tree/main/0435-non-overlapping-intervals/) | Medium |
 | [0455-assign-cookies](https://github.com/shashidhar078/GIVEITEVERYTHING/tree/main/0455-assign-cookies/) | Easy |
 | [0621-task-scheduler](https://github.com/shashidhar078/GIVEITEVERYTHING/tree/main/0621-task-scheduler/) | Medium |
 | [0646-maximum-length-of-pair-chain](https://github.com/shashidhar078/GIVEITEVERYTHING/tree/main/0646-maximum-length-of-pair-chain/) | Medium |
@@ -208,6 +211,7 @@
 | [0215-kth-largest-element-in-an-array](https://github.com/shashidhar078/GIVEITEVERYTHING/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0229-majority-element-ii](https://github.com/shashidhar078/GIVEITEVERYTHING/tree/main/0229-majority-element-ii/) | Medium |
 | [0347-top-k-frequent-elements](https://github.com/shashidhar078/GIVEITEVERYTHING/tree/main/0347-top-k-frequent-elements/) | Medium |
+| [0435-non-overlapping-intervals](https://github.com/shashidhar078/GIVEITEVERYTHING/tree/main/0435-non-overlapping-intervals/) | Medium |
 | [0455-assign-cookies](https://github.com/shashidhar078/GIVEITEVERYTHING/tree/main/0455-assign-cookies/) | Easy |
 | [0621-task-scheduler](https://github.com/shashidhar078/GIVEITEVERYTHING/tree/main/0621-task-scheduler/) | Medium |
 | [0646-maximum-length-of-pair-chain](https://github.com/shashidhar078/GIVEITEVERYTHING/tree/main/0646-maximum-length-of-pair-chain/) | Medium |
