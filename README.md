@@ -20,6 +20,7 @@
 | [0045-jump-game-ii](https://github.com/shashidhar078/GIVEITEVERYTHING/tree/main/0045-jump-game-ii/) | Medium |
 | [0053-maximum-subarray](https://github.com/shashidhar078/GIVEITEVERYTHING/tree/main/0053-maximum-subarray/) | Medium |
 | [0055-jump-game](https://github.com/shashidhar078/GIVEITEVERYTHING/tree/main/0055-jump-game/) | Medium |
+| [0057-insert-interval](https://github.com/shashidhar078/GIVEITEVERYTHING/tree/main/0057-insert-interval/) | Medium |
 | [0073-set-matrix-zeroes](https://github.com/shashidhar078/GIVEITEVERYTHING/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0075-sort-colors](https://github.com/shashidhar078/GIVEITEVERYTHING/tree/main/0075-sort-colors/) | Medium |
 | [0078-subsets](https://github.com/shashidhar078/GIVEITEVERYTHING/tree/main/0078-subsets/) | Medium |
