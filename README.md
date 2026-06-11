@@ -67,6 +67,7 @@
 | ------- | ------- |
 | [0078-subsets](https://github.com/shashidhar078/GIVEITEVERYTHING/tree/main/0078-subsets/) | Medium |
 | [0090-subsets-ii](https://github.com/shashidhar078/GIVEITEVERYTHING/tree/main/0090-subsets-ii/) | Medium |
+| [0222-count-complete-tree-nodes](https://github.com/shashidhar078/GIVEITEVERYTHING/tree/main/0222-count-complete-tree-nodes/) | Easy |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -264,10 +265,12 @@
 | [0104-maximum-depth-of-binary-tree](https://github.com/shashidhar078/GIVEITEVERYTHING/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0144-binary-tree-preorder-traversal](https://github.com/shashidhar078/GIVEITEVERYTHING/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0145-binary-tree-postorder-traversal](https://github.com/shashidhar078/GIVEITEVERYTHING/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
+| [0222-count-complete-tree-nodes](https://github.com/shashidhar078/GIVEITEVERYTHING/tree/main/0222-count-complete-tree-nodes/) | Easy |
 | [0703-kth-largest-element-in-a-stream](https://github.com/shashidhar078/GIVEITEVERYTHING/tree/main/0703-kth-largest-element-in-a-stream/) | Easy |
 ## Binary Search Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0222-count-complete-tree-nodes](https://github.com/shashidhar078/GIVEITEVERYTHING/tree/main/0222-count-complete-tree-nodes/) | Easy |
 | [0703-kth-largest-element-in-a-stream](https://github.com/shashidhar078/GIVEITEVERYTHING/tree/main/0703-kth-largest-element-in-a-stream/) | Easy |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/shashidhar078/GIVEITEVERYTHING/tree/main/1337-the-k-weakest-rows-in-a-matrix/) | Easy |
 ## Binary Tree
@@ -278,6 +281,7 @@
 | [0104-maximum-depth-of-binary-tree](https://github.com/shashidhar078/GIVEITEVERYTHING/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0144-binary-tree-preorder-traversal](https://github.com/shashidhar078/GIVEITEVERYTHING/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0145-binary-tree-postorder-traversal](https://github.com/shashidhar078/GIVEITEVERYTHING/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
+| [0222-count-complete-tree-nodes](https://github.com/shashidhar078/GIVEITEVERYTHING/tree/main/0222-count-complete-tree-nodes/) | Easy |
 | [0703-kth-largest-element-in-a-stream](https://github.com/shashidhar078/GIVEITEVERYTHING/tree/main/0703-kth-largest-element-in-a-stream/) | Easy |
 ## Two Pointers
 | Problem Name | Difficulty |
