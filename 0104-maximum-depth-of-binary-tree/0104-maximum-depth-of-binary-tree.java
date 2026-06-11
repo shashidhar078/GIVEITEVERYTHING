@@ -26,7 +26,7 @@ class Solution {
         }
         int lh=findMax(root.left);
         int rh=findMax(root.right);
-        int height=Math.max(lh,rh)+1;
-        return height;
+        int depth=Math.max(lh,rh)+1;
+        return depth;
     }
 }
