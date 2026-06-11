@@ -107,6 +107,7 @@
 | ------- | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/shashidhar078/GIVEITEVERYTHING/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
 | [0085-maximal-rectangle](https://github.com/shashidhar078/GIVEITEVERYTHING/tree/main/0085-maximal-rectangle/) | Hard |
+| [0144-binary-tree-preorder-traversal](https://github.com/shashidhar078/GIVEITEVERYTHING/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0402-remove-k-digits](https://github.com/shashidhar078/GIVEITEVERYTHING/tree/main/0402-remove-k-digits/) | Medium |
 | [0496-next-greater-element-i](https://github.com/shashidhar078/GIVEITEVERYTHING/tree/main/0496-next-greater-element-i/) | Easy |
 | [0678-valid-parenthesis-string](https://github.com/shashidhar078/GIVEITEVERYTHING/tree/main/0678-valid-parenthesis-string/) | Medium |
@@ -256,6 +257,7 @@
 ## Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/shashidhar078/GIVEITEVERYTHING/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0703-kth-largest-element-in-a-stream](https://github.com/shashidhar078/GIVEITEVERYTHING/tree/main/0703-kth-largest-element-in-a-stream/) | Easy |
 ## Binary Search Tree
 | Problem Name | Difficulty |
@@ -265,6 +267,7 @@
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/shashidhar078/GIVEITEVERYTHING/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0703-kth-largest-element-in-a-stream](https://github.com/shashidhar078/GIVEITEVERYTHING/tree/main/0703-kth-largest-element-in-a-stream/) | Easy |
 ## Two Pointers
 | Problem Name | Difficulty |
@@ -280,4 +283,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/shashidhar078/GIVEITEVERYTHING/tree/main/0560-subarray-sum-equals-k/) | Medium |
+## Depth-First Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/shashidhar078/GIVEITEVERYTHING/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 <!---LeetCode Topics End-->
