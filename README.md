@@ -196,6 +196,7 @@
 | [0023-merge-k-sorted-lists](https://github.com/shashidhar078/GIVEITEVERYTHING/tree/main/0023-merge-k-sorted-lists/) | Hard |
 | [0146-lru-cache](https://github.com/shashidhar078/GIVEITEVERYTHING/tree/main/0146-lru-cache/) | Medium |
 | [0206-reverse-linked-list](https://github.com/shashidhar078/GIVEITEVERYTHING/tree/main/0206-reverse-linked-list/) | Easy |
+| [0876-middle-of-the-linked-list](https://github.com/shashidhar078/GIVEITEVERYTHING/tree/main/0876-middle-of-the-linked-list/) | Easy |
 ## Doubly-Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -291,6 +292,7 @@
 | [0031-next-permutation](https://github.com/shashidhar078/GIVEITEVERYTHING/tree/main/0031-next-permutation/) | Medium |
 | [0075-sort-colors](https://github.com/shashidhar078/GIVEITEVERYTHING/tree/main/0075-sort-colors/) | Medium |
 | [0455-assign-cookies](https://github.com/shashidhar078/GIVEITEVERYTHING/tree/main/0455-assign-cookies/) | Easy |
+| [0876-middle-of-the-linked-list](https://github.com/shashidhar078/GIVEITEVERYTHING/tree/main/0876-middle-of-the-linked-list/) | Easy |
 ## Union-Find
 | Problem Name | Difficulty |
 | ------- | ------- |
