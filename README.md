@@ -11,6 +11,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0050-powx-n](https://github.com/shashidhar078/GIVEITEVERYTHING/tree/main/0050-powx-n/) | Medium |
+| [0206-reverse-linked-list](https://github.com/shashidhar078/GIVEITEVERYTHING/tree/main/0206-reverse-linked-list/) | Easy |
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -194,6 +195,7 @@
 | ------- | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/shashidhar078/GIVEITEVERYTHING/tree/main/0023-merge-k-sorted-lists/) | Hard |
 | [0146-lru-cache](https://github.com/shashidhar078/GIVEITEVERYTHING/tree/main/0146-lru-cache/) | Medium |
+| [0206-reverse-linked-list](https://github.com/shashidhar078/GIVEITEVERYTHING/tree/main/0206-reverse-linked-list/) | Easy |
 ## Doubly-Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
