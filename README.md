@@ -118,6 +118,7 @@
 | [0735-asteroid-collision](https://github.com/shashidhar078/GIVEITEVERYTHING/tree/main/0735-asteroid-collision/) | Medium |
 | [0901-online-stock-span](https://github.com/shashidhar078/GIVEITEVERYTHING/tree/main/0901-online-stock-span/) | Medium |
 | [0907-sum-of-subarray-minimums](https://github.com/shashidhar078/GIVEITEVERYTHING/tree/main/0907-sum-of-subarray-minimums/) | Medium |
+| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/shashidhar078/GIVEITEVERYTHING/tree/main/2130-maximum-twin-sum-of-a-linked-list/) | Medium |
 ## Monotonic Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -197,6 +198,7 @@
 | [0146-lru-cache](https://github.com/shashidhar078/GIVEITEVERYTHING/tree/main/0146-lru-cache/) | Medium |
 | [0206-reverse-linked-list](https://github.com/shashidhar078/GIVEITEVERYTHING/tree/main/0206-reverse-linked-list/) | Easy |
 | [0876-middle-of-the-linked-list](https://github.com/shashidhar078/GIVEITEVERYTHING/tree/main/0876-middle-of-the-linked-list/) | Easy |
+| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/shashidhar078/GIVEITEVERYTHING/tree/main/2130-maximum-twin-sum-of-a-linked-list/) | Medium |
 ## Doubly-Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -293,6 +295,7 @@
 | [0075-sort-colors](https://github.com/shashidhar078/GIVEITEVERYTHING/tree/main/0075-sort-colors/) | Medium |
 | [0455-assign-cookies](https://github.com/shashidhar078/GIVEITEVERYTHING/tree/main/0455-assign-cookies/) | Easy |
 | [0876-middle-of-the-linked-list](https://github.com/shashidhar078/GIVEITEVERYTHING/tree/main/0876-middle-of-the-linked-list/) | Easy |
+| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/shashidhar078/GIVEITEVERYTHING/tree/main/2130-maximum-twin-sum-of-a-linked-list/) | Medium |
 ## Union-Find
 | Problem Name | Difficulty |
 | ------- | ------- |
