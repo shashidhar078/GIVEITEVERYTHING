@@ -10,17 +10,17 @@
  */
 class Solution {
     public ListNode reverseList(ListNode head) {
+        //lets solve it by using 3 pointers
+        ListNode temp=head;
+        ListNode front=null;
         ListNode prev=null;
-        ListNode curr=head;
-        ListNode next;
-        while(curr!=null)
+        while(temp!=null)
         {
-            next=curr.next;
-            curr.next=prev;
-            prev=curr;
-            curr=next;
+            front=temp.next;
+            temp.next=prev;
+            prev=temp;
+            temp=front;
         }
-        head=prev;
-        return head;
+        return prev;
     }
 }
