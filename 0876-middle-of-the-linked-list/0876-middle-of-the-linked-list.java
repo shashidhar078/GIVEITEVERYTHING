@@ -10,16 +10,16 @@
  */
 class Solution {
     public ListNode middleNode(ListNode head) {
-        //let us solve it using slow and fast pointer approach
-        //since the size could be odd or even we can easily do it using slow and fast pointer approach
+        //following slow and fast pointer
+
         ListNode slow=head;
         ListNode fast=head;
+
         while(fast!=null&&fast.next!=null)
         {
             slow=slow.next;
             fast=fast.next.next;
         }
-        head=slow;
-        return head;
+        return slow;
     }
 }
