@@ -25,8 +25,9 @@ class Solution {
             return true;
         }
         boolean left=checkBalance(root.left);
+         int lh=height(root.left);
         boolean right=checkBalance(root.right);
-        int lh=height(root.left);
+       
         int rh=height(root.right);
         int diff=Math.abs(lh-rh);
         if(left&&right&&diff<=1)
