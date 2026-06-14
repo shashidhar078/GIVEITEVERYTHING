@@ -196,6 +196,7 @@
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/shashidhar078/GIVEITEVERYTHING/tree/main/0019-remove-nth-node-from-end-of-list/) | Medium |
 | [0021-merge-two-sorted-lists](https://github.com/shashidhar078/GIVEITEVERYTHING/tree/main/0021-merge-two-sorted-lists/) | Easy |
 | [0023-merge-k-sorted-lists](https://github.com/shashidhar078/GIVEITEVERYTHING/tree/main/0023-merge-k-sorted-lists/) | Hard |
 | [0146-lru-cache](https://github.com/shashidhar078/GIVEITEVERYTHING/tree/main/0146-lru-cache/) | Medium |
@@ -304,6 +305,7 @@
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/shashidhar078/GIVEITEVERYTHING/tree/main/0019-remove-nth-node-from-end-of-list/) | Medium |
 | [0031-next-permutation](https://github.com/shashidhar078/GIVEITEVERYTHING/tree/main/0031-next-permutation/) | Medium |
 | [0075-sort-colors](https://github.com/shashidhar078/GIVEITEVERYTHING/tree/main/0075-sort-colors/) | Medium |
 | [0455-assign-cookies](https://github.com/shashidhar078/GIVEITEVERYTHING/tree/main/0455-assign-cookies/) | Easy |
