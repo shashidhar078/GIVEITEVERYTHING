@@ -288,6 +288,7 @@
 | [0199-binary-tree-right-side-view](https://github.com/shashidhar078/GIVEITEVERYTHING/tree/main/0199-binary-tree-right-side-view/) | Medium |
 | [0222-count-complete-tree-nodes](https://github.com/shashidhar078/GIVEITEVERYTHING/tree/main/0222-count-complete-tree-nodes/) | Easy |
 | [0226-invert-binary-tree](https://github.com/shashidhar078/GIVEITEVERYTHING/tree/main/0226-invert-binary-tree/) | Easy |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/shashidhar078/GIVEITEVERYTHING/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
 | [0257-binary-tree-paths](https://github.com/shashidhar078/GIVEITEVERYTHING/tree/main/0257-binary-tree-paths/) | Easy |
 | [0543-diameter-of-binary-tree](https://github.com/shashidhar078/GIVEITEVERYTHING/tree/main/0543-diameter-of-binary-tree/) | Easy |
 | [0572-subtree-of-another-tree](https://github.com/shashidhar078/GIVEITEVERYTHING/tree/main/0572-subtree-of-another-tree/) | Easy |
@@ -316,6 +317,7 @@
 | [0199-binary-tree-right-side-view](https://github.com/shashidhar078/GIVEITEVERYTHING/tree/main/0199-binary-tree-right-side-view/) | Medium |
 | [0222-count-complete-tree-nodes](https://github.com/shashidhar078/GIVEITEVERYTHING/tree/main/0222-count-complete-tree-nodes/) | Easy |
 | [0226-invert-binary-tree](https://github.com/shashidhar078/GIVEITEVERYTHING/tree/main/0226-invert-binary-tree/) | Easy |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/shashidhar078/GIVEITEVERYTHING/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
 | [0257-binary-tree-paths](https://github.com/shashidhar078/GIVEITEVERYTHING/tree/main/0257-binary-tree-paths/) | Easy |
 | [0543-diameter-of-binary-tree](https://github.com/shashidhar078/GIVEITEVERYTHING/tree/main/0543-diameter-of-binary-tree/) | Easy |
 | [0572-subtree-of-another-tree](https://github.com/shashidhar078/GIVEITEVERYTHING/tree/main/0572-subtree-of-another-tree/) | Easy |
@@ -352,6 +354,7 @@
 | [0145-binary-tree-postorder-traversal](https://github.com/shashidhar078/GIVEITEVERYTHING/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
 | [0199-binary-tree-right-side-view](https://github.com/shashidhar078/GIVEITEVERYTHING/tree/main/0199-binary-tree-right-side-view/) | Medium |
 | [0226-invert-binary-tree](https://github.com/shashidhar078/GIVEITEVERYTHING/tree/main/0226-invert-binary-tree/) | Easy |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/shashidhar078/GIVEITEVERYTHING/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
 | [0257-binary-tree-paths](https://github.com/shashidhar078/GIVEITEVERYTHING/tree/main/0257-binary-tree-paths/) | Easy |
 | [0543-diameter-of-binary-tree](https://github.com/shashidhar078/GIVEITEVERYTHING/tree/main/0543-diameter-of-binary-tree/) | Easy |
 | [0572-subtree-of-another-tree](https://github.com/shashidhar078/GIVEITEVERYTHING/tree/main/0572-subtree-of-another-tree/) | Easy |
