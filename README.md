@@ -237,6 +237,7 @@
 | [1296-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/shashidhar078/GIVEITEVERYTHING/tree/main/1296-divide-array-in-sets-of-k-consecutive-numbers/) | Medium |
 | [1331-rank-transform-of-an-array](https://github.com/shashidhar078/GIVEITEVERYTHING/tree/main/1331-rank-transform-of-an-array/) | Easy |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/shashidhar078/GIVEITEVERYTHING/tree/main/1337-the-k-weakest-rows-in-a-matrix/) | Easy |
+| [2583-kth-largest-sum-in-a-binary-tree](https://github.com/shashidhar078/GIVEITEVERYTHING/tree/main/2583-kth-largest-sum-in-a-binary-tree/) | Medium |
 ## Merge Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -289,6 +290,7 @@
 | [0572-subtree-of-another-tree](https://github.com/shashidhar078/GIVEITEVERYTHING/tree/main/0572-subtree-of-another-tree/) | Easy |
 | [0703-kth-largest-element-in-a-stream](https://github.com/shashidhar078/GIVEITEVERYTHING/tree/main/0703-kth-largest-element-in-a-stream/) | Easy |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/shashidhar078/GIVEITEVERYTHING/tree/main/0987-vertical-order-traversal-of-a-binary-tree/) | Hard |
+| [2583-kth-largest-sum-in-a-binary-tree](https://github.com/shashidhar078/GIVEITEVERYTHING/tree/main/2583-kth-largest-sum-in-a-binary-tree/) | Medium |
 ## Binary Search Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -315,6 +317,7 @@
 | [0572-subtree-of-another-tree](https://github.com/shashidhar078/GIVEITEVERYTHING/tree/main/0572-subtree-of-another-tree/) | Easy |
 | [0703-kth-largest-element-in-a-stream](https://github.com/shashidhar078/GIVEITEVERYTHING/tree/main/0703-kth-largest-element-in-a-stream/) | Easy |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/shashidhar078/GIVEITEVERYTHING/tree/main/0987-vertical-order-traversal-of-a-binary-tree/) | Hard |
+| [2583-kth-largest-sum-in-a-binary-tree](https://github.com/shashidhar078/GIVEITEVERYTHING/tree/main/2583-kth-largest-sum-in-a-binary-tree/) | Medium |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -359,6 +362,7 @@
 | [0199-binary-tree-right-side-view](https://github.com/shashidhar078/GIVEITEVERYTHING/tree/main/0199-binary-tree-right-side-view/) | Medium |
 | [0226-invert-binary-tree](https://github.com/shashidhar078/GIVEITEVERYTHING/tree/main/0226-invert-binary-tree/) | Easy |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/shashidhar078/GIVEITEVERYTHING/tree/main/0987-vertical-order-traversal-of-a-binary-tree/) | Hard |
+| [2583-kth-largest-sum-in-a-binary-tree](https://github.com/shashidhar078/GIVEITEVERYTHING/tree/main/2583-kth-largest-sum-in-a-binary-tree/) | Medium |
 ## String Matching
 | Problem Name | Difficulty |
 | ------- | ------- |
