@@ -15,8 +15,7 @@
  */
 class Solution {
     public int countNodes(TreeNode root) {
-        int count=countN(root);
-        return count;
+        return countN(root);
     }
     public static int countN(TreeNode root)
     {
@@ -24,8 +23,9 @@ class Solution {
         {
             return 0;
         }
-        int lc=countN(root.left);
-        int rc=countN(root.right);
-        return lc+rc+1;
+        int leftcount=countN(root.left);
+        int rightcount=countN(root.right);
+        return leftcount+rightcount+1;
+        
     }
 }
