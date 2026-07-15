@@ -110,6 +110,7 @@
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/shashidhar078/GIVEITEVERYTHING/tree/main/0987-vertical-order-traversal-of-a-binary-tree/) | Hard |
 | [1296-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/shashidhar078/GIVEITEVERYTHING/tree/main/1296-divide-array-in-sets-of-k-consecutive-numbers/) | Medium |
 | [1331-rank-transform-of-an-array](https://github.com/shashidhar078/GIVEITEVERYTHING/tree/main/1331-rank-transform-of-an-array/) | Easy |
+| [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/shashidhar078/GIVEITEVERYTHING/tree/main/2385-amount-of-time-for-binary-tree-to-be-infected/) | Medium |
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -298,6 +299,7 @@
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/shashidhar078/GIVEITEVERYTHING/tree/main/0863-all-nodes-distance-k-in-binary-tree/) | Medium |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/shashidhar078/GIVEITEVERYTHING/tree/main/0987-vertical-order-traversal-of-a-binary-tree/) | Hard |
 | [2236-root-equals-sum-of-children](https://github.com/shashidhar078/GIVEITEVERYTHING/tree/main/2236-root-equals-sum-of-children/) | Easy |
+| [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/shashidhar078/GIVEITEVERYTHING/tree/main/2385-amount-of-time-for-binary-tree-to-be-infected/) | Medium |
 | [2583-kth-largest-sum-in-a-binary-tree](https://github.com/shashidhar078/GIVEITEVERYTHING/tree/main/2583-kth-largest-sum-in-a-binary-tree/) | Medium |
 ## Binary Search Tree
 | Problem Name | Difficulty |
@@ -330,6 +332,7 @@
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/shashidhar078/GIVEITEVERYTHING/tree/main/0863-all-nodes-distance-k-in-binary-tree/) | Medium |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/shashidhar078/GIVEITEVERYTHING/tree/main/0987-vertical-order-traversal-of-a-binary-tree/) | Hard |
 | [2236-root-equals-sum-of-children](https://github.com/shashidhar078/GIVEITEVERYTHING/tree/main/2236-root-equals-sum-of-children/) | Easy |
+| [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/shashidhar078/GIVEITEVERYTHING/tree/main/2385-amount-of-time-for-binary-tree-to-be-infected/) | Medium |
 | [2583-kth-largest-sum-in-a-binary-tree](https://github.com/shashidhar078/GIVEITEVERYTHING/tree/main/2583-kth-largest-sum-in-a-binary-tree/) | Medium |
 ## Two Pointers
 | Problem Name | Difficulty |
@@ -368,6 +371,7 @@
 | [0662-maximum-width-of-binary-tree](https://github.com/shashidhar078/GIVEITEVERYTHING/tree/main/0662-maximum-width-of-binary-tree/) | Medium |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/shashidhar078/GIVEITEVERYTHING/tree/main/0863-all-nodes-distance-k-in-binary-tree/) | Medium |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/shashidhar078/GIVEITEVERYTHING/tree/main/0987-vertical-order-traversal-of-a-binary-tree/) | Hard |
+| [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/shashidhar078/GIVEITEVERYTHING/tree/main/2385-amount-of-time-for-binary-tree-to-be-infected/) | Medium |
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -381,6 +385,7 @@
 | [0662-maximum-width-of-binary-tree](https://github.com/shashidhar078/GIVEITEVERYTHING/tree/main/0662-maximum-width-of-binary-tree/) | Medium |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/shashidhar078/GIVEITEVERYTHING/tree/main/0863-all-nodes-distance-k-in-binary-tree/) | Medium |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/shashidhar078/GIVEITEVERYTHING/tree/main/0987-vertical-order-traversal-of-a-binary-tree/) | Hard |
+| [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/shashidhar078/GIVEITEVERYTHING/tree/main/2385-amount-of-time-for-binary-tree-to-be-infected/) | Medium |
 | [2583-kth-largest-sum-in-a-binary-tree](https://github.com/shashidhar078/GIVEITEVERYTHING/tree/main/2583-kth-largest-sum-in-a-binary-tree/) | Medium |
 ## String Matching
 | Problem Name | Difficulty |
