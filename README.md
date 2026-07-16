@@ -32,6 +32,7 @@
 | [0085-maximal-rectangle](https://github.com/shashidhar078/GIVEITEVERYTHING/tree/main/0085-maximal-rectangle/) | Hard |
 | [0090-subsets-ii](https://github.com/shashidhar078/GIVEITEVERYTHING/tree/main/0090-subsets-ii/) | Medium |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/shashidhar078/GIVEITEVERYTHING/tree/main/0105-construct-binary-tree-from-preorder-and-inorder-traversal/) | Medium |
+| [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/shashidhar078/GIVEITEVERYTHING/tree/main/0106-construct-binary-tree-from-inorder-and-postorder-traversal/) | Medium |
 | [0118-pascals-triangle](https://github.com/shashidhar078/GIVEITEVERYTHING/tree/main/0118-pascals-triangle/) | Easy |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/shashidhar078/GIVEITEVERYTHING/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0128-longest-consecutive-sequence](https://github.com/shashidhar078/GIVEITEVERYTHING/tree/main/0128-longest-consecutive-sequence/) | Medium |
@@ -101,6 +102,7 @@
 | ------- | ------- |
 | [0073-set-matrix-zeroes](https://github.com/shashidhar078/GIVEITEVERYTHING/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/shashidhar078/GIVEITEVERYTHING/tree/main/0105-construct-binary-tree-from-preorder-and-inorder-traversal/) | Medium |
+| [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/shashidhar078/GIVEITEVERYTHING/tree/main/0106-construct-binary-tree-from-inorder-and-postorder-traversal/) | Medium |
 | [0128-longest-consecutive-sequence](https://github.com/shashidhar078/GIVEITEVERYTHING/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0146-lru-cache](https://github.com/shashidhar078/GIVEITEVERYTHING/tree/main/0146-lru-cache/) | Medium |
 | [0229-majority-element-ii](https://github.com/shashidhar078/GIVEITEVERYTHING/tree/main/0229-majority-element-ii/) | Medium |
@@ -222,6 +224,7 @@
 | [0023-merge-k-sorted-lists](https://github.com/shashidhar078/GIVEITEVERYTHING/tree/main/0023-merge-k-sorted-lists/) | Hard |
 | [0053-maximum-subarray](https://github.com/shashidhar078/GIVEITEVERYTHING/tree/main/0053-maximum-subarray/) | Medium |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/shashidhar078/GIVEITEVERYTHING/tree/main/0105-construct-binary-tree-from-preorder-and-inorder-traversal/) | Medium |
+| [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/shashidhar078/GIVEITEVERYTHING/tree/main/0106-construct-binary-tree-from-inorder-and-postorder-traversal/) | Medium |
 | [0215-kth-largest-element-in-an-array](https://github.com/shashidhar078/GIVEITEVERYTHING/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0347-top-k-frequent-elements](https://github.com/shashidhar078/GIVEITEVERYTHING/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0912-sort-an-array](https://github.com/shashidhar078/GIVEITEVERYTHING/tree/main/0912-sort-an-array/) | Medium |
@@ -288,6 +291,7 @@
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/shashidhar078/GIVEITEVERYTHING/tree/main/0103-binary-tree-zigzag-level-order-traversal/) | Medium |
 | [0104-maximum-depth-of-binary-tree](https://github.com/shashidhar078/GIVEITEVERYTHING/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/shashidhar078/GIVEITEVERYTHING/tree/main/0105-construct-binary-tree-from-preorder-and-inorder-traversal/) | Medium |
+| [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/shashidhar078/GIVEITEVERYTHING/tree/main/0106-construct-binary-tree-from-inorder-and-postorder-traversal/) | Medium |
 | [0110-balanced-binary-tree](https://github.com/shashidhar078/GIVEITEVERYTHING/tree/main/0110-balanced-binary-tree/) | Easy |
 | [0124-binary-tree-maximum-path-sum](https://github.com/shashidhar078/GIVEITEVERYTHING/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
 | [0144-binary-tree-preorder-traversal](https://github.com/shashidhar078/GIVEITEVERYTHING/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
@@ -322,6 +326,7 @@
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/shashidhar078/GIVEITEVERYTHING/tree/main/0103-binary-tree-zigzag-level-order-traversal/) | Medium |
 | [0104-maximum-depth-of-binary-tree](https://github.com/shashidhar078/GIVEITEVERYTHING/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/shashidhar078/GIVEITEVERYTHING/tree/main/0105-construct-binary-tree-from-preorder-and-inorder-traversal/) | Medium |
+| [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/shashidhar078/GIVEITEVERYTHING/tree/main/0106-construct-binary-tree-from-inorder-and-postorder-traversal/) | Medium |
 | [0110-balanced-binary-tree](https://github.com/shashidhar078/GIVEITEVERYTHING/tree/main/0110-balanced-binary-tree/) | Easy |
 | [0124-binary-tree-maximum-path-sum](https://github.com/shashidhar078/GIVEITEVERYTHING/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
 | [0144-binary-tree-preorder-traversal](https://github.com/shashidhar078/GIVEITEVERYTHING/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
