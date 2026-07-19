@@ -84,6 +84,7 @@
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/shashidhar078/GIVEITEVERYTHING/tree/main/0297-serialize-and-deserialize-binary-tree/) | Hard |
 | [0402-remove-k-digits](https://github.com/shashidhar078/GIVEITEVERYTHING/tree/main/0402-remove-k-digits/) | Medium |
 | [0678-valid-parenthesis-string](https://github.com/shashidhar078/GIVEITEVERYTHING/tree/main/0678-valid-parenthesis-string/) | Medium |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/shashidhar078/GIVEITEVERYTHING/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
 | [1221-split-a-string-in-balanced-strings](https://github.com/shashidhar078/GIVEITEVERYTHING/tree/main/1221-split-a-string-in-balanced-strings/) | Easy |
 ## Dynamic Programming
 | Problem Name | Difficulty |
@@ -134,6 +135,7 @@
 | [0735-asteroid-collision](https://github.com/shashidhar078/GIVEITEVERYTHING/tree/main/0735-asteroid-collision/) | Medium |
 | [0901-online-stock-span](https://github.com/shashidhar078/GIVEITEVERYTHING/tree/main/0901-online-stock-span/) | Medium |
 | [0907-sum-of-subarray-minimums](https://github.com/shashidhar078/GIVEITEVERYTHING/tree/main/0907-sum-of-subarray-minimums/) | Medium |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/shashidhar078/GIVEITEVERYTHING/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/shashidhar078/GIVEITEVERYTHING/tree/main/2130-maximum-twin-sum-of-a-linked-list/) | Medium |
 ## Monotonic Stack
 | Problem Name | Difficulty |
@@ -144,6 +146,7 @@
 | [0496-next-greater-element-i](https://github.com/shashidhar078/GIVEITEVERYTHING/tree/main/0496-next-greater-element-i/) | Easy |
 | [0901-online-stock-span](https://github.com/shashidhar078/GIVEITEVERYTHING/tree/main/0901-online-stock-span/) | Medium |
 | [0907-sum-of-subarray-minimums](https://github.com/shashidhar078/GIVEITEVERYTHING/tree/main/0907-sum-of-subarray-minimums/) | Medium |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/shashidhar078/GIVEITEVERYTHING/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -162,6 +165,7 @@
 | [0678-valid-parenthesis-string](https://github.com/shashidhar078/GIVEITEVERYTHING/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [0846-hand-of-straights](https://github.com/shashidhar078/GIVEITEVERYTHING/tree/main/0846-hand-of-straights/) | Medium |
 | [0860-lemonade-change](https://github.com/shashidhar078/GIVEITEVERYTHING/tree/main/0860-lemonade-change/) | Easy |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/shashidhar078/GIVEITEVERYTHING/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
 | [1221-split-a-string-in-balanced-strings](https://github.com/shashidhar078/GIVEITEVERYTHING/tree/main/1221-split-a-string-in-balanced-strings/) | Easy |
 | [1296-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/shashidhar078/GIVEITEVERYTHING/tree/main/1296-divide-array-in-sets-of-k-consecutive-numbers/) | Medium |
 | [2208-minimum-operations-to-halve-array-sum](https://github.com/shashidhar078/GIVEITEVERYTHING/tree/main/2208-minimum-operations-to-halve-array-sum/) | Medium |
