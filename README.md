@@ -55,6 +55,7 @@
 | [0907-sum-of-subarray-minimums](https://github.com/shashidhar078/GIVEITEVERYTHING/tree/main/0907-sum-of-subarray-minimums/) | Medium |
 | [0912-sort-an-array](https://github.com/shashidhar078/GIVEITEVERYTHING/tree/main/0912-sort-an-array/) | Medium |
 | [0973-k-closest-points-to-origin](https://github.com/shashidhar078/GIVEITEVERYTHING/tree/main/0973-k-closest-points-to-origin/) | Medium |
+| [1260-shift-2d-grid](https://github.com/shashidhar078/GIVEITEVERYTHING/tree/main/1260-shift-2d-grid/) | Easy |
 | [1296-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/shashidhar078/GIVEITEVERYTHING/tree/main/1296-divide-array-in-sets-of-k-consecutive-numbers/) | Medium |
 | [1331-rank-transform-of-an-array](https://github.com/shashidhar078/GIVEITEVERYTHING/tree/main/1331-rank-transform-of-an-array/) | Easy |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/shashidhar078/GIVEITEVERYTHING/tree/main/1337-the-k-weakest-rows-in-a-matrix/) | Easy |
@@ -151,6 +152,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0735-asteroid-collision](https://github.com/shashidhar078/GIVEITEVERYTHING/tree/main/0735-asteroid-collision/) | Medium |
+| [1260-shift-2d-grid](https://github.com/shashidhar078/GIVEITEVERYTHING/tree/main/1260-shift-2d-grid/) | Easy |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -174,6 +176,7 @@
 | ------- | ------- |
 | [0073-set-matrix-zeroes](https://github.com/shashidhar078/GIVEITEVERYTHING/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0085-maximal-rectangle](https://github.com/shashidhar078/GIVEITEVERYTHING/tree/main/0085-maximal-rectangle/) | Hard |
+| [1260-shift-2d-grid](https://github.com/shashidhar078/GIVEITEVERYTHING/tree/main/1260-shift-2d-grid/) | Easy |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/shashidhar078/GIVEITEVERYTHING/tree/main/1337-the-k-weakest-rows-in-a-matrix/) | Easy |
 ## Queue
 | Problem Name | Difficulty |
