@@ -316,6 +316,7 @@
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/shashidhar078/GIVEITEVERYTHING/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
 | [0257-binary-tree-paths](https://github.com/shashidhar078/GIVEITEVERYTHING/tree/main/0257-binary-tree-paths/) | Easy |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/shashidhar078/GIVEITEVERYTHING/tree/main/0297-serialize-and-deserialize-binary-tree/) | Hard |
+| [0450-delete-node-in-a-bst](https://github.com/shashidhar078/GIVEITEVERYTHING/tree/main/0450-delete-node-in-a-bst/) | Medium |
 | [0543-diameter-of-binary-tree](https://github.com/shashidhar078/GIVEITEVERYTHING/tree/main/0543-diameter-of-binary-tree/) | Easy |
 | [0572-subtree-of-another-tree](https://github.com/shashidhar078/GIVEITEVERYTHING/tree/main/0572-subtree-of-another-tree/) | Easy |
 | [0662-maximum-width-of-binary-tree](https://github.com/shashidhar078/GIVEITEVERYTHING/tree/main/0662-maximum-width-of-binary-tree/) | Medium |
@@ -330,6 +331,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0222-count-complete-tree-nodes](https://github.com/shashidhar078/GIVEITEVERYTHING/tree/main/0222-count-complete-tree-nodes/) | Easy |
+| [0450-delete-node-in-a-bst](https://github.com/shashidhar078/GIVEITEVERYTHING/tree/main/0450-delete-node-in-a-bst/) | Medium |
 | [0700-search-in-a-binary-search-tree](https://github.com/shashidhar078/GIVEITEVERYTHING/tree/main/0700-search-in-a-binary-search-tree/) | Easy |
 | [0703-kth-largest-element-in-a-stream](https://github.com/shashidhar078/GIVEITEVERYTHING/tree/main/0703-kth-largest-element-in-a-stream/) | Easy |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/shashidhar078/GIVEITEVERYTHING/tree/main/1337-the-k-weakest-rows-in-a-matrix/) | Easy |
@@ -355,6 +357,7 @@
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/shashidhar078/GIVEITEVERYTHING/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
 | [0257-binary-tree-paths](https://github.com/shashidhar078/GIVEITEVERYTHING/tree/main/0257-binary-tree-paths/) | Easy |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/shashidhar078/GIVEITEVERYTHING/tree/main/0297-serialize-and-deserialize-binary-tree/) | Hard |
+| [0450-delete-node-in-a-bst](https://github.com/shashidhar078/GIVEITEVERYTHING/tree/main/0450-delete-node-in-a-bst/) | Medium |
 | [0543-diameter-of-binary-tree](https://github.com/shashidhar078/GIVEITEVERYTHING/tree/main/0543-diameter-of-binary-tree/) | Easy |
 | [0572-subtree-of-another-tree](https://github.com/shashidhar078/GIVEITEVERYTHING/tree/main/0572-subtree-of-another-tree/) | Easy |
 | [0662-maximum-width-of-binary-tree](https://github.com/shashidhar078/GIVEITEVERYTHING/tree/main/0662-maximum-width-of-binary-tree/) | Medium |
