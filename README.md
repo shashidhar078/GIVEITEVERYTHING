@@ -87,6 +87,7 @@
 | [0678-valid-parenthesis-string](https://github.com/shashidhar078/GIVEITEVERYTHING/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/shashidhar078/GIVEITEVERYTHING/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
 | [1221-split-a-string-in-balanced-strings](https://github.com/shashidhar078/GIVEITEVERYTHING/tree/main/1221-split-a-string-in-balanced-strings/) | Easy |
+| [3499-maximize-active-section-with-trade-i](https://github.com/shashidhar078/GIVEITEVERYTHING/tree/main/3499-maximize-active-section-with-trade-i/) | Medium |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -437,4 +438,8 @@
 | ------- | ------- |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/shashidhar078/GIVEITEVERYTHING/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/shashidhar078/GIVEITEVERYTHING/tree/main/3658-gcd-of-odd-and-even-sums/) | Easy |
+## Enumeration
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3499-maximize-active-section-with-trade-i](https://github.com/shashidhar078/GIVEITEVERYTHING/tree/main/3499-maximize-active-section-with-trade-i/) | Medium |
 <!---LeetCode Topics End-->
