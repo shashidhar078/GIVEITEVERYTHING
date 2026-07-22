@@ -9,61 +9,29 @@
  */
 
 class Solution {
-    boolean foundP=false;
-    boolean foundQ=false;
     public TreeNode lowestCommonAncestor(TreeNode root, TreeNode p, TreeNode q) {
-        ArrayList<Integer> arr=new ArrayList<>();
-        ArrayList<Integer> res=new ArrayList<>();
-        findP(root,p,arr);
-        findQ(root,q,res);
-       int num=-1;
-
-        for(int i=0;i<arr.size() && i<res.size();i++)
-        {
-            if(arr.get(i).equals(res.get(i)))
-            {
-                num=arr.get(i);
-            }
-            else
-            {
-                break;
-            }
-        }
-        TreeNode n=new TreeNode(num);
-        return n;
+        return lca(root,p,q);
     }
-    public  void findP(TreeNode root,TreeNode p,ArrayList<Integer> arr)
+    public static TreeNode lca(TreeNode root,TreeNode p,TreeNode q)
     {
         if(root==null)
         {
-            return;
+            return null;
         }
-        arr.add(root.val);
-        if(root.val==p.val)
+        if(root==p||root==q)
         {
-            foundP=true;
-            return;
+            return root;
         }
-        findP(root.left,p,arr);
-        findP(root.right,p,arr);  
-        if(!foundP)
-        arr.remove(arr.size()-1);
-    }
-    public  void findQ(TreeNode root,TreeNode q,ArrayList<Integer> res)
-    {
-        if(root==null)
+        TreeNode left=lca(root.left,p,q);
+        TreeNode right=lca(root.right,p,q);
+        if(left!=null&&right!=null)
         {
-            return;
+            return root;
         }
-        res.add(root.val);
-        if(root.val==q.val)
+        if(left!=null)
         {
-            foundQ=true;
-            return;
+            return left;
         }
-        findQ(root.left,q,res);
-        findQ(root.right,q,res);  
-        if(!foundQ)
-        res.remove(res.size()-1);
+        return right;
     }
 }
