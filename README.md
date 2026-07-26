@@ -6,6 +6,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0050-powx-n](https://github.com/shashidhar078/GIVEITEVERYTHING/tree/main/0050-powx-n/) | Medium |
+| [0628-maximum-product-of-three-numbers](https://github.com/shashidhar078/GIVEITEVERYTHING/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0973-k-closest-points-to-origin](https://github.com/shashidhar078/GIVEITEVERYTHING/tree/main/0973-k-closest-points-to-origin/) | Medium |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/shashidhar078/GIVEITEVERYTHING/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/shashidhar078/GIVEITEVERYTHING/tree/main/3513-number-of-unique-xor-triplets-i/) | Medium |
@@ -49,6 +50,7 @@
 | [0496-next-greater-element-i](https://github.com/shashidhar078/GIVEITEVERYTHING/tree/main/0496-next-greater-element-i/) | Easy |
 | [0560-subarray-sum-equals-k](https://github.com/shashidhar078/GIVEITEVERYTHING/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0621-task-scheduler](https://github.com/shashidhar078/GIVEITEVERYTHING/tree/main/0621-task-scheduler/) | Medium |
+| [0628-maximum-product-of-three-numbers](https://github.com/shashidhar078/GIVEITEVERYTHING/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0646-maximum-length-of-pair-chain](https://github.com/shashidhar078/GIVEITEVERYTHING/tree/main/0646-maximum-length-of-pair-chain/) | Medium |
 | [0735-asteroid-collision](https://github.com/shashidhar078/GIVEITEVERYTHING/tree/main/0735-asteroid-collision/) | Medium |
 | [0846-hand-of-straights](https://github.com/shashidhar078/GIVEITEVERYTHING/tree/main/0846-hand-of-straights/) | Medium |
@@ -258,6 +260,7 @@
 | [0435-non-overlapping-intervals](https://github.com/shashidhar078/GIVEITEVERYTHING/tree/main/0435-non-overlapping-intervals/) | Medium |
 | [0455-assign-cookies](https://github.com/shashidhar078/GIVEITEVERYTHING/tree/main/0455-assign-cookies/) | Easy |
 | [0621-task-scheduler](https://github.com/shashidhar078/GIVEITEVERYTHING/tree/main/0621-task-scheduler/) | Medium |
+| [0628-maximum-product-of-three-numbers](https://github.com/shashidhar078/GIVEITEVERYTHING/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0646-maximum-length-of-pair-chain](https://github.com/shashidhar078/GIVEITEVERYTHING/tree/main/0646-maximum-length-of-pair-chain/) | Medium |
 | [0846-hand-of-straights](https://github.com/shashidhar078/GIVEITEVERYTHING/tree/main/0846-hand-of-straights/) | Medium |
 | [0912-sort-an-array](https://github.com/shashidhar078/GIVEITEVERYTHING/tree/main/0912-sort-an-array/) | Medium |
