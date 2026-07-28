@@ -110,6 +110,7 @@
 | [0646-maximum-length-of-pair-chain](https://github.com/shashidhar078/GIVEITEVERYTHING/tree/main/0646-maximum-length-of-pair-chain/) | Medium |
 | [0678-valid-parenthesis-string](https://github.com/shashidhar078/GIVEITEVERYTHING/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [0907-sum-of-subarray-minimums](https://github.com/shashidhar078/GIVEITEVERYTHING/tree/main/0907-sum-of-subarray-minimums/) | Medium |
+| [1373-maximum-sum-bst-in-binary-tree](https://github.com/shashidhar078/GIVEITEVERYTHING/tree/main/1373-maximum-sum-bst-in-binary-tree/) | Hard |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -345,6 +346,7 @@
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/shashidhar078/GIVEITEVERYTHING/tree/main/0863-all-nodes-distance-k-in-binary-tree/) | Medium |
 | [0938-range-sum-of-bst](https://github.com/shashidhar078/GIVEITEVERYTHING/tree/main/0938-range-sum-of-bst/) | Easy |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/shashidhar078/GIVEITEVERYTHING/tree/main/0987-vertical-order-traversal-of-a-binary-tree/) | Hard |
+| [1373-maximum-sum-bst-in-binary-tree](https://github.com/shashidhar078/GIVEITEVERYTHING/tree/main/1373-maximum-sum-bst-in-binary-tree/) | Hard |
 | [2236-root-equals-sum-of-children](https://github.com/shashidhar078/GIVEITEVERYTHING/tree/main/2236-root-equals-sum-of-children/) | Easy |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/shashidhar078/GIVEITEVERYTHING/tree/main/2385-amount-of-time-for-binary-tree-to-be-infected/) | Medium |
 | [2583-kth-largest-sum-in-a-binary-tree](https://github.com/shashidhar078/GIVEITEVERYTHING/tree/main/2583-kth-largest-sum-in-a-binary-tree/) | Medium |
@@ -363,6 +365,7 @@
 | [0703-kth-largest-element-in-a-stream](https://github.com/shashidhar078/GIVEITEVERYTHING/tree/main/0703-kth-largest-element-in-a-stream/) | Easy |
 | [0938-range-sum-of-bst](https://github.com/shashidhar078/GIVEITEVERYTHING/tree/main/0938-range-sum-of-bst/) | Easy |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/shashidhar078/GIVEITEVERYTHING/tree/main/1337-the-k-weakest-rows-in-a-matrix/) | Easy |
+| [1373-maximum-sum-bst-in-binary-tree](https://github.com/shashidhar078/GIVEITEVERYTHING/tree/main/1373-maximum-sum-bst-in-binary-tree/) | Hard |
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -400,6 +403,7 @@
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/shashidhar078/GIVEITEVERYTHING/tree/main/0863-all-nodes-distance-k-in-binary-tree/) | Medium |
 | [0938-range-sum-of-bst](https://github.com/shashidhar078/GIVEITEVERYTHING/tree/main/0938-range-sum-of-bst/) | Easy |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/shashidhar078/GIVEITEVERYTHING/tree/main/0987-vertical-order-traversal-of-a-binary-tree/) | Hard |
+| [1373-maximum-sum-bst-in-binary-tree](https://github.com/shashidhar078/GIVEITEVERYTHING/tree/main/1373-maximum-sum-bst-in-binary-tree/) | Hard |
 | [2236-root-equals-sum-of-children](https://github.com/shashidhar078/GIVEITEVERYTHING/tree/main/2236-root-equals-sum-of-children/) | Easy |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/shashidhar078/GIVEITEVERYTHING/tree/main/2385-amount-of-time-for-binary-tree-to-be-infected/) | Medium |
 | [2583-kth-largest-sum-in-a-binary-tree](https://github.com/shashidhar078/GIVEITEVERYTHING/tree/main/2583-kth-largest-sum-in-a-binary-tree/) | Medium |
@@ -449,6 +453,7 @@
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/shashidhar078/GIVEITEVERYTHING/tree/main/0863-all-nodes-distance-k-in-binary-tree/) | Medium |
 | [0938-range-sum-of-bst](https://github.com/shashidhar078/GIVEITEVERYTHING/tree/main/0938-range-sum-of-bst/) | Easy |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/shashidhar078/GIVEITEVERYTHING/tree/main/0987-vertical-order-traversal-of-a-binary-tree/) | Hard |
+| [1373-maximum-sum-bst-in-binary-tree](https://github.com/shashidhar078/GIVEITEVERYTHING/tree/main/1373-maximum-sum-bst-in-binary-tree/) | Hard |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/shashidhar078/GIVEITEVERYTHING/tree/main/2385-amount-of-time-for-binary-tree-to-be-infected/) | Medium |
 ## Breadth-First Search
 | Problem Name | Difficulty |
