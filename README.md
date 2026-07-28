@@ -94,6 +94,7 @@
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/shashidhar078/GIVEITEVERYTHING/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
 | [1221-split-a-string-in-balanced-strings](https://github.com/shashidhar078/GIVEITEVERYTHING/tree/main/1221-split-a-string-in-balanced-strings/) | Easy |
 | [3499-maximize-active-section-with-trade-i](https://github.com/shashidhar078/GIVEITEVERYTHING/tree/main/3499-maximize-active-section-with-trade-i/) | Medium |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/shashidhar078/GIVEITEVERYTHING/tree/main/3517-smallest-palindromic-rearrangement-i/) | Medium |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -273,6 +274,7 @@
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/shashidhar078/GIVEITEVERYTHING/tree/main/1337-the-k-weakest-rows-in-a-matrix/) | Easy |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/shashidhar078/GIVEITEVERYTHING/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [2583-kth-largest-sum-in-a-binary-tree](https://github.com/shashidhar078/GIVEITEVERYTHING/tree/main/2583-kth-largest-sum-in-a-binary-tree/) | Medium |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/shashidhar078/GIVEITEVERYTHING/tree/main/3517-smallest-palindromic-rearrangement-i/) | Medium |
 ## Merge Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -295,6 +297,7 @@
 | [0621-task-scheduler](https://github.com/shashidhar078/GIVEITEVERYTHING/tree/main/0621-task-scheduler/) | Medium |
 | [0912-sort-an-array](https://github.com/shashidhar078/GIVEITEVERYTHING/tree/main/0912-sort-an-array/) | Medium |
 | [1221-split-a-string-in-balanced-strings](https://github.com/shashidhar078/GIVEITEVERYTHING/tree/main/1221-split-a-string-in-balanced-strings/) | Easy |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/shashidhar078/GIVEITEVERYTHING/tree/main/3517-smallest-palindromic-rearrangement-i/) | Medium |
 ## Geometry
 | Problem Name | Difficulty |
 | ------- | ------- |
