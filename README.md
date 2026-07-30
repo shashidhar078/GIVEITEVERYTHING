@@ -9,6 +9,7 @@
 | [0628-maximum-product-of-three-numbers](https://github.com/shashidhar078/GIVEITEVERYTHING/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0973-k-closest-points-to-origin](https://github.com/shashidhar078/GIVEITEVERYTHING/tree/main/0973-k-closest-points-to-origin/) | Medium |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/shashidhar078/GIVEITEVERYTHING/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/shashidhar078/GIVEITEVERYTHING/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/shashidhar078/GIVEITEVERYTHING/tree/main/3513-number-of-unique-xor-triplets-i/) | Medium |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/shashidhar078/GIVEITEVERYTHING/tree/main/3658-gcd-of-odd-and-even-sums/) | Easy |
 ## Recursion
@@ -95,6 +96,7 @@
 | [0678-valid-parenthesis-string](https://github.com/shashidhar078/GIVEITEVERYTHING/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/shashidhar078/GIVEITEVERYTHING/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
 | [1221-split-a-string-in-balanced-strings](https://github.com/shashidhar078/GIVEITEVERYTHING/tree/main/1221-split-a-string-in-balanced-strings/) | Easy |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/shashidhar078/GIVEITEVERYTHING/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
 | [3499-maximize-active-section-with-trade-i](https://github.com/shashidhar078/GIVEITEVERYTHING/tree/main/3499-maximize-active-section-with-trade-i/) | Medium |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/shashidhar078/GIVEITEVERYTHING/tree/main/3517-smallest-palindromic-rearrangement-i/) | Medium |
 ## Dynamic Programming
@@ -183,6 +185,7 @@
 | [1221-split-a-string-in-balanced-strings](https://github.com/shashidhar078/GIVEITEVERYTHING/tree/main/1221-split-a-string-in-balanced-strings/) | Easy |
 | [1296-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/shashidhar078/GIVEITEVERYTHING/tree/main/1296-divide-array-in-sets-of-k-consecutive-numbers/) | Medium |
 | [2208-minimum-operations-to-halve-array-sum](https://github.com/shashidhar078/GIVEITEVERYTHING/tree/main/2208-minimum-operations-to-halve-array-sum/) | Medium |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/shashidhar078/GIVEITEVERYTHING/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
