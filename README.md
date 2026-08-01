@@ -50,6 +50,7 @@
 | [0435-non-overlapping-intervals](https://github.com/shashidhar078/GIVEITEVERYTHING/tree/main/0435-non-overlapping-intervals/) | Medium |
 | [0455-assign-cookies](https://github.com/shashidhar078/GIVEITEVERYTHING/tree/main/0455-assign-cookies/) | Easy |
 | [0496-next-greater-element-i](https://github.com/shashidhar078/GIVEITEVERYTHING/tree/main/0496-next-greater-element-i/) | Easy |
+| [0542-01-matrix](https://github.com/shashidhar078/GIVEITEVERYTHING/tree/main/0542-01-matrix/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/shashidhar078/GIVEITEVERYTHING/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0621-task-scheduler](https://github.com/shashidhar078/GIVEITEVERYTHING/tree/main/0621-task-scheduler/) | Medium |
 | [0628-maximum-product-of-three-numbers](https://github.com/shashidhar078/GIVEITEVERYTHING/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
@@ -112,6 +113,7 @@
 | [0124-binary-tree-maximum-path-sum](https://github.com/shashidhar078/GIVEITEVERYTHING/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
 | [0131-palindrome-partitioning](https://github.com/shashidhar078/GIVEITEVERYTHING/tree/main/0131-palindrome-partitioning/) | Medium |
 | [0435-non-overlapping-intervals](https://github.com/shashidhar078/GIVEITEVERYTHING/tree/main/0435-non-overlapping-intervals/) | Medium |
+| [0542-01-matrix](https://github.com/shashidhar078/GIVEITEVERYTHING/tree/main/0542-01-matrix/) | Medium |
 | [0646-maximum-length-of-pair-chain](https://github.com/shashidhar078/GIVEITEVERYTHING/tree/main/0646-maximum-length-of-pair-chain/) | Medium |
 | [0678-valid-parenthesis-string](https://github.com/shashidhar078/GIVEITEVERYTHING/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [0907-sum-of-subarray-minimums](https://github.com/shashidhar078/GIVEITEVERYTHING/tree/main/0907-sum-of-subarray-minimums/) | Medium |
@@ -193,6 +195,7 @@
 | [0073-set-matrix-zeroes](https://github.com/shashidhar078/GIVEITEVERYTHING/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0085-maximal-rectangle](https://github.com/shashidhar078/GIVEITEVERYTHING/tree/main/0085-maximal-rectangle/) | Hard |
 | [0200-number-of-islands](https://github.com/shashidhar078/GIVEITEVERYTHING/tree/main/0200-number-of-islands/) | Medium |
+| [0542-01-matrix](https://github.com/shashidhar078/GIVEITEVERYTHING/tree/main/0542-01-matrix/) | Medium |
 | [0994-rotting-oranges](https://github.com/shashidhar078/GIVEITEVERYTHING/tree/main/0994-rotting-oranges/) | Medium |
 | [1260-shift-2d-grid](https://github.com/shashidhar078/GIVEITEVERYTHING/tree/main/1260-shift-2d-grid/) | Easy |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/shashidhar078/GIVEITEVERYTHING/tree/main/1337-the-k-weakest-rows-in-a-matrix/) | Easy |
@@ -484,6 +487,7 @@
 | [0200-number-of-islands](https://github.com/shashidhar078/GIVEITEVERYTHING/tree/main/0200-number-of-islands/) | Medium |
 | [0226-invert-binary-tree](https://github.com/shashidhar078/GIVEITEVERYTHING/tree/main/0226-invert-binary-tree/) | Easy |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/shashidhar078/GIVEITEVERYTHING/tree/main/0297-serialize-and-deserialize-binary-tree/) | Hard |
+| [0542-01-matrix](https://github.com/shashidhar078/GIVEITEVERYTHING/tree/main/0542-01-matrix/) | Medium |
 | [0547-number-of-provinces](https://github.com/shashidhar078/GIVEITEVERYTHING/tree/main/0547-number-of-provinces/) | Medium |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/shashidhar078/GIVEITEVERYTHING/tree/main/0653-two-sum-iv-input-is-a-bst/) | Easy |
 | [0662-maximum-width-of-binary-tree](https://github.com/shashidhar078/GIVEITEVERYTHING/tree/main/0662-maximum-width-of-binary-tree/) | Medium |
