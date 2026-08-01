@@ -40,6 +40,7 @@
 | [0118-pascals-triangle](https://github.com/shashidhar078/GIVEITEVERYTHING/tree/main/0118-pascals-triangle/) | Easy |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/shashidhar078/GIVEITEVERYTHING/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0128-longest-consecutive-sequence](https://github.com/shashidhar078/GIVEITEVERYTHING/tree/main/0128-longest-consecutive-sequence/) | Medium |
+| [0130-surrounded-regions](https://github.com/shashidhar078/GIVEITEVERYTHING/tree/main/0130-surrounded-regions/) | Medium |
 | [0135-candy](https://github.com/shashidhar078/GIVEITEVERYTHING/tree/main/0135-candy/) | Hard |
 | [0200-number-of-islands](https://github.com/shashidhar078/GIVEITEVERYTHING/tree/main/0200-number-of-islands/) | Medium |
 | [0215-kth-largest-element-in-an-array](https://github.com/shashidhar078/GIVEITEVERYTHING/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
@@ -194,6 +195,7 @@
 | ------- | ------- |
 | [0073-set-matrix-zeroes](https://github.com/shashidhar078/GIVEITEVERYTHING/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0085-maximal-rectangle](https://github.com/shashidhar078/GIVEITEVERYTHING/tree/main/0085-maximal-rectangle/) | Hard |
+| [0130-surrounded-regions](https://github.com/shashidhar078/GIVEITEVERYTHING/tree/main/0130-surrounded-regions/) | Medium |
 | [0200-number-of-islands](https://github.com/shashidhar078/GIVEITEVERYTHING/tree/main/0200-number-of-islands/) | Medium |
 | [0542-01-matrix](https://github.com/shashidhar078/GIVEITEVERYTHING/tree/main/0542-01-matrix/) | Medium |
 | [0994-rotting-oranges](https://github.com/shashidhar078/GIVEITEVERYTHING/tree/main/0994-rotting-oranges/) | Medium |
@@ -433,6 +435,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/shashidhar078/GIVEITEVERYTHING/tree/main/0128-longest-consecutive-sequence/) | Medium |
+| [0130-surrounded-regions](https://github.com/shashidhar078/GIVEITEVERYTHING/tree/main/0130-surrounded-regions/) | Medium |
 | [0200-number-of-islands](https://github.com/shashidhar078/GIVEITEVERYTHING/tree/main/0200-number-of-islands/) | Medium |
 | [0547-number-of-provinces](https://github.com/shashidhar078/GIVEITEVERYTHING/tree/main/0547-number-of-provinces/) | Medium |
 | [1559-detect-cycles-in-2d-grid](https://github.com/shashidhar078/GIVEITEVERYTHING/tree/main/1559-detect-cycles-in-2d-grid/) | Medium |
@@ -453,6 +456,7 @@
 | [0110-balanced-binary-tree](https://github.com/shashidhar078/GIVEITEVERYTHING/tree/main/0110-balanced-binary-tree/) | Easy |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/shashidhar078/GIVEITEVERYTHING/tree/main/0114-flatten-binary-tree-to-linked-list/) | Medium |
 | [0124-binary-tree-maximum-path-sum](https://github.com/shashidhar078/GIVEITEVERYTHING/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
+| [0130-surrounded-regions](https://github.com/shashidhar078/GIVEITEVERYTHING/tree/main/0130-surrounded-regions/) | Medium |
 | [0144-binary-tree-preorder-traversal](https://github.com/shashidhar078/GIVEITEVERYTHING/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0145-binary-tree-postorder-traversal](https://github.com/shashidhar078/GIVEITEVERYTHING/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
 | [0199-binary-tree-right-side-view](https://github.com/shashidhar078/GIVEITEVERYTHING/tree/main/0199-binary-tree-right-side-view/) | Medium |
@@ -483,6 +487,7 @@
 | [0102-binary-tree-level-order-traversal](https://github.com/shashidhar078/GIVEITEVERYTHING/tree/main/0102-binary-tree-level-order-traversal/) | Medium |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/shashidhar078/GIVEITEVERYTHING/tree/main/0103-binary-tree-zigzag-level-order-traversal/) | Medium |
 | [0104-maximum-depth-of-binary-tree](https://github.com/shashidhar078/GIVEITEVERYTHING/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
+| [0130-surrounded-regions](https://github.com/shashidhar078/GIVEITEVERYTHING/tree/main/0130-surrounded-regions/) | Medium |
 | [0199-binary-tree-right-side-view](https://github.com/shashidhar078/GIVEITEVERYTHING/tree/main/0199-binary-tree-right-side-view/) | Medium |
 | [0200-number-of-islands](https://github.com/shashidhar078/GIVEITEVERYTHING/tree/main/0200-number-of-islands/) | Medium |
 | [0226-invert-binary-tree](https://github.com/shashidhar078/GIVEITEVERYTHING/tree/main/0226-invert-binary-tree/) | Easy |
