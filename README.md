@@ -66,6 +66,7 @@
 | [1331-rank-transform-of-an-array](https://github.com/shashidhar078/GIVEITEVERYTHING/tree/main/1331-rank-transform-of-an-array/) | Easy |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/shashidhar078/GIVEITEVERYTHING/tree/main/1337-the-k-weakest-rows-in-a-matrix/) | Easy |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/shashidhar078/GIVEITEVERYTHING/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
+| [1559-detect-cycles-in-2d-grid](https://github.com/shashidhar078/GIVEITEVERYTHING/tree/main/1559-detect-cycles-in-2d-grid/) | Medium |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/shashidhar078/GIVEITEVERYTHING/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [2208-minimum-operations-to-halve-array-sum](https://github.com/shashidhar078/GIVEITEVERYTHING/tree/main/2208-minimum-operations-to-halve-array-sum/) | Medium |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/shashidhar078/GIVEITEVERYTHING/tree/main/3513-number-of-unique-xor-triplets-i/) | Medium |
@@ -195,6 +196,7 @@
 | [0994-rotting-oranges](https://github.com/shashidhar078/GIVEITEVERYTHING/tree/main/0994-rotting-oranges/) | Medium |
 | [1260-shift-2d-grid](https://github.com/shashidhar078/GIVEITEVERYTHING/tree/main/1260-shift-2d-grid/) | Easy |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/shashidhar078/GIVEITEVERYTHING/tree/main/1337-the-k-weakest-rows-in-a-matrix/) | Easy |
+| [1559-detect-cycles-in-2d-grid](https://github.com/shashidhar078/GIVEITEVERYTHING/tree/main/1559-detect-cycles-in-2d-grid/) | Medium |
 ## Queue
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -430,6 +432,7 @@
 | [0128-longest-consecutive-sequence](https://github.com/shashidhar078/GIVEITEVERYTHING/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0200-number-of-islands](https://github.com/shashidhar078/GIVEITEVERYTHING/tree/main/0200-number-of-islands/) | Medium |
 | [0547-number-of-provinces](https://github.com/shashidhar078/GIVEITEVERYTHING/tree/main/0547-number-of-provinces/) | Medium |
+| [1559-detect-cycles-in-2d-grid](https://github.com/shashidhar078/GIVEITEVERYTHING/tree/main/1559-detect-cycles-in-2d-grid/) | Medium |
 | [2685-count-the-number-of-complete-components](https://github.com/shashidhar078/GIVEITEVERYTHING/tree/main/2685-count-the-number-of-complete-components/) | Medium |
 ## Prefix Sum
 | Problem Name | Difficulty |
@@ -466,6 +469,7 @@
 | [0938-range-sum-of-bst](https://github.com/shashidhar078/GIVEITEVERYTHING/tree/main/0938-range-sum-of-bst/) | Easy |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/shashidhar078/GIVEITEVERYTHING/tree/main/0987-vertical-order-traversal-of-a-binary-tree/) | Hard |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/shashidhar078/GIVEITEVERYTHING/tree/main/1373-maximum-sum-bst-in-binary-tree/) | Hard |
+| [1559-detect-cycles-in-2d-grid](https://github.com/shashidhar078/GIVEITEVERYTHING/tree/main/1559-detect-cycles-in-2d-grid/) | Medium |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/shashidhar078/GIVEITEVERYTHING/tree/main/2385-amount-of-time-for-binary-tree-to-be-infected/) | Medium |
 | [2685-count-the-number-of-complete-components](https://github.com/shashidhar078/GIVEITEVERYTHING/tree/main/2685-count-the-number-of-complete-components/) | Medium |
 ## Breadth-First Search
@@ -486,6 +490,7 @@
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/shashidhar078/GIVEITEVERYTHING/tree/main/0863-all-nodes-distance-k-in-binary-tree/) | Medium |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/shashidhar078/GIVEITEVERYTHING/tree/main/0987-vertical-order-traversal-of-a-binary-tree/) | Hard |
 | [0994-rotting-oranges](https://github.com/shashidhar078/GIVEITEVERYTHING/tree/main/0994-rotting-oranges/) | Medium |
+| [1559-detect-cycles-in-2d-grid](https://github.com/shashidhar078/GIVEITEVERYTHING/tree/main/1559-detect-cycles-in-2d-grid/) | Medium |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/shashidhar078/GIVEITEVERYTHING/tree/main/2385-amount-of-time-for-binary-tree-to-be-infected/) | Medium |
 | [2583-kth-largest-sum-in-a-binary-tree](https://github.com/shashidhar078/GIVEITEVERYTHING/tree/main/2583-kth-largest-sum-in-a-binary-tree/) | Medium |
 | [2685-count-the-number-of-complete-components](https://github.com/shashidhar078/GIVEITEVERYTHING/tree/main/2685-count-the-number-of-complete-components/) | Medium |
