@@ -73,6 +73,7 @@
 | [1979-find-greatest-common-divisor-of-array](https://github.com/shashidhar078/GIVEITEVERYTHING/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [2208-minimum-operations-to-halve-array-sum](https://github.com/shashidhar078/GIVEITEVERYTHING/tree/main/2208-minimum-operations-to-halve-array-sum/) | Medium |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/shashidhar078/GIVEITEVERYTHING/tree/main/3513-number-of-unique-xor-triplets-i/) | Medium |
+| [3731-find-missing-elements](https://github.com/shashidhar078/GIVEITEVERYTHING/tree/main/3731-find-missing-elements/) | Easy |
 ## Backtracking
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -140,6 +141,7 @@
 | [1296-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/shashidhar078/GIVEITEVERYTHING/tree/main/1296-divide-array-in-sets-of-k-consecutive-numbers/) | Medium |
 | [1331-rank-transform-of-an-array](https://github.com/shashidhar078/GIVEITEVERYTHING/tree/main/1331-rank-transform-of-an-array/) | Easy |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/shashidhar078/GIVEITEVERYTHING/tree/main/2385-amount-of-time-for-binary-tree-to-be-infected/) | Medium |
+| [3731-find-missing-elements](https://github.com/shashidhar078/GIVEITEVERYTHING/tree/main/3731-find-missing-elements/) | Easy |
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -292,6 +294,7 @@
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/shashidhar078/GIVEITEVERYTHING/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [2583-kth-largest-sum-in-a-binary-tree](https://github.com/shashidhar078/GIVEITEVERYTHING/tree/main/2583-kth-largest-sum-in-a-binary-tree/) | Medium |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/shashidhar078/GIVEITEVERYTHING/tree/main/3517-smallest-palindromic-rearrangement-i/) | Medium |
+| [3731-find-missing-elements](https://github.com/shashidhar078/GIVEITEVERYTHING/tree/main/3731-find-missing-elements/) | Easy |
 ## Merge Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
