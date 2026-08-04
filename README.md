@@ -477,6 +477,7 @@
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/shashidhar078/GIVEITEVERYTHING/tree/main/0653-two-sum-iv-input-is-a-bst/) | Easy |
 | [0662-maximum-width-of-binary-tree](https://github.com/shashidhar078/GIVEITEVERYTHING/tree/main/0662-maximum-width-of-binary-tree/) | Medium |
 | [0785-is-graph-bipartite](https://github.com/shashidhar078/GIVEITEVERYTHING/tree/main/0785-is-graph-bipartite/) | Medium |
+| [0802-find-eventual-safe-states](https://github.com/shashidhar078/GIVEITEVERYTHING/tree/main/0802-find-eventual-safe-states/) | Medium |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/shashidhar078/GIVEITEVERYTHING/tree/main/0863-all-nodes-distance-k-in-binary-tree/) | Medium |
 | [0938-range-sum-of-bst](https://github.com/shashidhar078/GIVEITEVERYTHING/tree/main/0938-range-sum-of-bst/) | Easy |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/shashidhar078/GIVEITEVERYTHING/tree/main/0987-vertical-order-traversal-of-a-binary-tree/) | Hard |
@@ -503,6 +504,7 @@
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/shashidhar078/GIVEITEVERYTHING/tree/main/0653-two-sum-iv-input-is-a-bst/) | Easy |
 | [0662-maximum-width-of-binary-tree](https://github.com/shashidhar078/GIVEITEVERYTHING/tree/main/0662-maximum-width-of-binary-tree/) | Medium |
 | [0785-is-graph-bipartite](https://github.com/shashidhar078/GIVEITEVERYTHING/tree/main/0785-is-graph-bipartite/) | Medium |
+| [0802-find-eventual-safe-states](https://github.com/shashidhar078/GIVEITEVERYTHING/tree/main/0802-find-eventual-safe-states/) | Medium |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/shashidhar078/GIVEITEVERYTHING/tree/main/0863-all-nodes-distance-k-in-binary-tree/) | Medium |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/shashidhar078/GIVEITEVERYTHING/tree/main/0987-vertical-order-traversal-of-a-binary-tree/) | Hard |
 | [0994-rotting-oranges](https://github.com/shashidhar078/GIVEITEVERYTHING/tree/main/0994-rotting-oranges/) | Medium |
@@ -533,6 +535,7 @@
 | ------- | ------- |
 | [0547-number-of-provinces](https://github.com/shashidhar078/GIVEITEVERYTHING/tree/main/0547-number-of-provinces/) | Medium |
 | [0785-is-graph-bipartite](https://github.com/shashidhar078/GIVEITEVERYTHING/tree/main/0785-is-graph-bipartite/) | Medium |
+| [0802-find-eventual-safe-states](https://github.com/shashidhar078/GIVEITEVERYTHING/tree/main/0802-find-eventual-safe-states/) | Medium |
 | [2685-count-the-number-of-complete-components](https://github.com/shashidhar078/GIVEITEVERYTHING/tree/main/2685-count-the-number-of-complete-components/) | Medium |
 ## Graph Coloring
 | Problem Name | Difficulty |
@@ -542,4 +545,16 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0785-is-graph-bipartite](https://github.com/shashidhar078/GIVEITEVERYTHING/tree/main/0785-is-graph-bipartite/) | Medium |
+## Topological Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0802-find-eventual-safe-states](https://github.com/shashidhar078/GIVEITEVERYTHING/tree/main/0802-find-eventual-safe-states/) | Medium |
+## Kosaraju's Algorithm
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0802-find-eventual-safe-states](https://github.com/shashidhar078/GIVEITEVERYTHING/tree/main/0802-find-eventual-safe-states/) | Medium |
+## Tarjan's SCC Algorithm
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0802-find-eventual-safe-states](https://github.com/shashidhar078/GIVEITEVERYTHING/tree/main/0802-find-eventual-safe-states/) | Medium |
 <!---LeetCode Topics End-->
