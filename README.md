@@ -123,6 +123,7 @@
 | [0542-01-matrix](https://github.com/shashidhar078/GIVEITEVERYTHING/tree/main/0542-01-matrix/) | Medium |
 | [0646-maximum-length-of-pair-chain](https://github.com/shashidhar078/GIVEITEVERYTHING/tree/main/0646-maximum-length-of-pair-chain/) | Medium |
 | [0678-valid-parenthesis-string](https://github.com/shashidhar078/GIVEITEVERYTHING/tree/main/0678-valid-parenthesis-string/) | Medium |
+| [0787-cheapest-flights-within-k-stops](https://github.com/shashidhar078/GIVEITEVERYTHING/tree/main/0787-cheapest-flights-within-k-stops/) | Medium |
 | [0907-sum-of-subarray-minimums](https://github.com/shashidhar078/GIVEITEVERYTHING/tree/main/0907-sum-of-subarray-minimums/) | Medium |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/shashidhar078/GIVEITEVERYTHING/tree/main/1373-maximum-sum-bst-in-binary-tree/) | Hard |
 ## Hash Table
@@ -230,6 +231,7 @@
 | [0347-top-k-frequent-elements](https://github.com/shashidhar078/GIVEITEVERYTHING/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0621-task-scheduler](https://github.com/shashidhar078/GIVEITEVERYTHING/tree/main/0621-task-scheduler/) | Medium |
 | [0703-kth-largest-element-in-a-stream](https://github.com/shashidhar078/GIVEITEVERYTHING/tree/main/0703-kth-largest-element-in-a-stream/) | Easy |
+| [0787-cheapest-flights-within-k-stops](https://github.com/shashidhar078/GIVEITEVERYTHING/tree/main/0787-cheapest-flights-within-k-stops/) | Medium |
 | [0912-sort-an-array](https://github.com/shashidhar078/GIVEITEVERYTHING/tree/main/0912-sort-an-array/) | Medium |
 | [0973-k-closest-points-to-origin](https://github.com/shashidhar078/GIVEITEVERYTHING/tree/main/0973-k-closest-points-to-origin/) | Medium |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/shashidhar078/GIVEITEVERYTHING/tree/main/1337-the-k-weakest-rows-in-a-matrix/) | Easy |
@@ -491,6 +493,7 @@
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/shashidhar078/GIVEITEVERYTHING/tree/main/0653-two-sum-iv-input-is-a-bst/) | Easy |
 | [0662-maximum-width-of-binary-tree](https://github.com/shashidhar078/GIVEITEVERYTHING/tree/main/0662-maximum-width-of-binary-tree/) | Medium |
 | [0785-is-graph-bipartite](https://github.com/shashidhar078/GIVEITEVERYTHING/tree/main/0785-is-graph-bipartite/) | Medium |
+| [0787-cheapest-flights-within-k-stops](https://github.com/shashidhar078/GIVEITEVERYTHING/tree/main/0787-cheapest-flights-within-k-stops/) | Medium |
 | [0802-find-eventual-safe-states](https://github.com/shashidhar078/GIVEITEVERYTHING/tree/main/0802-find-eventual-safe-states/) | Medium |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/shashidhar078/GIVEITEVERYTHING/tree/main/0863-all-nodes-distance-k-in-binary-tree/) | Medium |
 | [0938-range-sum-of-bst](https://github.com/shashidhar078/GIVEITEVERYTHING/tree/main/0938-range-sum-of-bst/) | Easy |
@@ -522,6 +525,7 @@
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/shashidhar078/GIVEITEVERYTHING/tree/main/0653-two-sum-iv-input-is-a-bst/) | Easy |
 | [0662-maximum-width-of-binary-tree](https://github.com/shashidhar078/GIVEITEVERYTHING/tree/main/0662-maximum-width-of-binary-tree/) | Medium |
 | [0785-is-graph-bipartite](https://github.com/shashidhar078/GIVEITEVERYTHING/tree/main/0785-is-graph-bipartite/) | Medium |
+| [0787-cheapest-flights-within-k-stops](https://github.com/shashidhar078/GIVEITEVERYTHING/tree/main/0787-cheapest-flights-within-k-stops/) | Medium |
 | [0802-find-eventual-safe-states](https://github.com/shashidhar078/GIVEITEVERYTHING/tree/main/0802-find-eventual-safe-states/) | Medium |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/shashidhar078/GIVEITEVERYTHING/tree/main/0863-all-nodes-distance-k-in-binary-tree/) | Medium |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/shashidhar078/GIVEITEVERYTHING/tree/main/0987-vertical-order-traversal-of-a-binary-tree/) | Hard |
@@ -558,6 +562,7 @@
 | [0207-course-schedule](https://github.com/shashidhar078/GIVEITEVERYTHING/tree/main/0207-course-schedule/) | Medium |
 | [0547-number-of-provinces](https://github.com/shashidhar078/GIVEITEVERYTHING/tree/main/0547-number-of-provinces/) | Medium |
 | [0785-is-graph-bipartite](https://github.com/shashidhar078/GIVEITEVERYTHING/tree/main/0785-is-graph-bipartite/) | Medium |
+| [0787-cheapest-flights-within-k-stops](https://github.com/shashidhar078/GIVEITEVERYTHING/tree/main/0787-cheapest-flights-within-k-stops/) | Medium |
 | [0802-find-eventual-safe-states](https://github.com/shashidhar078/GIVEITEVERYTHING/tree/main/0802-find-eventual-safe-states/) | Medium |
 | [2685-count-the-number-of-complete-components](https://github.com/shashidhar078/GIVEITEVERYTHING/tree/main/2685-count-the-number-of-complete-components/) | Medium |
 | [3310-remove-methods-from-project](https://github.com/shashidhar078/GIVEITEVERYTHING/tree/main/3310-remove-methods-from-project/) | Medium |
@@ -594,4 +599,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1631-path-with-minimum-effort](https://github.com/shashidhar078/GIVEITEVERYTHING/tree/main/1631-path-with-minimum-effort/) | Medium |
+## Shortest Path
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0787-cheapest-flights-within-k-stops](https://github.com/shashidhar078/GIVEITEVERYTHING/tree/main/0787-cheapest-flights-within-k-stops/) | Medium |
 <!---LeetCode Topics End-->
