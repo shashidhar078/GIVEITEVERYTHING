@@ -72,6 +72,7 @@
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/shashidhar078/GIVEITEVERYTHING/tree/main/1337-the-k-weakest-rows-in-a-matrix/) | Easy |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/shashidhar078/GIVEITEVERYTHING/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [1559-detect-cycles-in-2d-grid](https://github.com/shashidhar078/GIVEITEVERYTHING/tree/main/1559-detect-cycles-in-2d-grid/) | Medium |
+| [1631-path-with-minimum-effort](https://github.com/shashidhar078/GIVEITEVERYTHING/tree/main/1631-path-with-minimum-effort/) | Medium |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/shashidhar078/GIVEITEVERYTHING/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [2208-minimum-operations-to-halve-array-sum](https://github.com/shashidhar078/GIVEITEVERYTHING/tree/main/2208-minimum-operations-to-halve-array-sum/) | Medium |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/shashidhar078/GIVEITEVERYTHING/tree/main/3513-number-of-unique-xor-triplets-i/) | Medium |
@@ -211,6 +212,7 @@
 | [1260-shift-2d-grid](https://github.com/shashidhar078/GIVEITEVERYTHING/tree/main/1260-shift-2d-grid/) | Easy |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/shashidhar078/GIVEITEVERYTHING/tree/main/1337-the-k-weakest-rows-in-a-matrix/) | Easy |
 | [1559-detect-cycles-in-2d-grid](https://github.com/shashidhar078/GIVEITEVERYTHING/tree/main/1559-detect-cycles-in-2d-grid/) | Medium |
+| [1631-path-with-minimum-effort](https://github.com/shashidhar078/GIVEITEVERYTHING/tree/main/1631-path-with-minimum-effort/) | Medium |
 ## Queue
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -232,6 +234,7 @@
 | [0973-k-closest-points-to-origin](https://github.com/shashidhar078/GIVEITEVERYTHING/tree/main/0973-k-closest-points-to-origin/) | Medium |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/shashidhar078/GIVEITEVERYTHING/tree/main/1337-the-k-weakest-rows-in-a-matrix/) | Easy |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/shashidhar078/GIVEITEVERYTHING/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
+| [1631-path-with-minimum-effort](https://github.com/shashidhar078/GIVEITEVERYTHING/tree/main/1631-path-with-minimum-effort/) | Medium |
 | [2208-minimum-operations-to-halve-array-sum](https://github.com/shashidhar078/GIVEITEVERYTHING/tree/main/2208-minimum-operations-to-halve-array-sum/) | Medium |
 ## Monotonic Queue
 | Problem Name | Difficulty |
@@ -390,6 +393,7 @@
 | [0938-range-sum-of-bst](https://github.com/shashidhar078/GIVEITEVERYTHING/tree/main/0938-range-sum-of-bst/) | Easy |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/shashidhar078/GIVEITEVERYTHING/tree/main/1337-the-k-weakest-rows-in-a-matrix/) | Easy |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/shashidhar078/GIVEITEVERYTHING/tree/main/1373-maximum-sum-bst-in-binary-tree/) | Hard |
+| [1631-path-with-minimum-effort](https://github.com/shashidhar078/GIVEITEVERYTHING/tree/main/1631-path-with-minimum-effort/) | Medium |
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -451,6 +455,7 @@
 | [0785-is-graph-bipartite](https://github.com/shashidhar078/GIVEITEVERYTHING/tree/main/0785-is-graph-bipartite/) | Medium |
 | [1020-number-of-enclaves](https://github.com/shashidhar078/GIVEITEVERYTHING/tree/main/1020-number-of-enclaves/) | Medium |
 | [1559-detect-cycles-in-2d-grid](https://github.com/shashidhar078/GIVEITEVERYTHING/tree/main/1559-detect-cycles-in-2d-grid/) | Medium |
+| [1631-path-with-minimum-effort](https://github.com/shashidhar078/GIVEITEVERYTHING/tree/main/1631-path-with-minimum-effort/) | Medium |
 | [2685-count-the-number-of-complete-components](https://github.com/shashidhar078/GIVEITEVERYTHING/tree/main/2685-count-the-number-of-complete-components/) | Medium |
 ## Prefix Sum
 | Problem Name | Difficulty |
@@ -493,6 +498,7 @@
 | [1020-number-of-enclaves](https://github.com/shashidhar078/GIVEITEVERYTHING/tree/main/1020-number-of-enclaves/) | Medium |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/shashidhar078/GIVEITEVERYTHING/tree/main/1373-maximum-sum-bst-in-binary-tree/) | Hard |
 | [1559-detect-cycles-in-2d-grid](https://github.com/shashidhar078/GIVEITEVERYTHING/tree/main/1559-detect-cycles-in-2d-grid/) | Medium |
+| [1631-path-with-minimum-effort](https://github.com/shashidhar078/GIVEITEVERYTHING/tree/main/1631-path-with-minimum-effort/) | Medium |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/shashidhar078/GIVEITEVERYTHING/tree/main/2385-amount-of-time-for-binary-tree-to-be-infected/) | Medium |
 | [2685-count-the-number-of-complete-components](https://github.com/shashidhar078/GIVEITEVERYTHING/tree/main/2685-count-the-number-of-complete-components/) | Medium |
 | [3310-remove-methods-from-project](https://github.com/shashidhar078/GIVEITEVERYTHING/tree/main/3310-remove-methods-from-project/) | Medium |
@@ -523,6 +529,7 @@
 | [1020-number-of-enclaves](https://github.com/shashidhar078/GIVEITEVERYTHING/tree/main/1020-number-of-enclaves/) | Medium |
 | [1091-shortest-path-in-binary-matrix](https://github.com/shashidhar078/GIVEITEVERYTHING/tree/main/1091-shortest-path-in-binary-matrix/) | Medium |
 | [1559-detect-cycles-in-2d-grid](https://github.com/shashidhar078/GIVEITEVERYTHING/tree/main/1559-detect-cycles-in-2d-grid/) | Medium |
+| [1631-path-with-minimum-effort](https://github.com/shashidhar078/GIVEITEVERYTHING/tree/main/1631-path-with-minimum-effort/) | Medium |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/shashidhar078/GIVEITEVERYTHING/tree/main/2385-amount-of-time-for-binary-tree-to-be-infected/) | Medium |
 | [2583-kth-largest-sum-in-a-binary-tree](https://github.com/shashidhar078/GIVEITEVERYTHING/tree/main/2583-kth-largest-sum-in-a-binary-tree/) | Medium |
 | [2685-count-the-number-of-complete-components](https://github.com/shashidhar078/GIVEITEVERYTHING/tree/main/2685-count-the-number-of-complete-components/) | Medium |
@@ -583,4 +590,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0127-word-ladder](https://github.com/shashidhar078/GIVEITEVERYTHING/tree/main/0127-word-ladder/) | Hard |
+## Dijkstra's Algorithm
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1631-path-with-minimum-effort](https://github.com/shashidhar078/GIVEITEVERYTHING/tree/main/1631-path-with-minimum-effort/) | Medium |
 <!---LeetCode Topics End-->
