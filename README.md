@@ -26,6 +26,7 @@
 | [0039-combination-sum](https://github.com/shashidhar078/GIVEITEVERYTHING/tree/main/0039-combination-sum/) | Medium |
 | [0040-combination-sum-ii](https://github.com/shashidhar078/GIVEITEVERYTHING/tree/main/0040-combination-sum-ii/) | Medium |
 | [0045-jump-game-ii](https://github.com/shashidhar078/GIVEITEVERYTHING/tree/main/0045-jump-game-ii/) | Medium |
+| [0049-group-anagrams](https://github.com/shashidhar078/GIVEITEVERYTHING/tree/main/0049-group-anagrams/) | Medium |
 | [0053-maximum-subarray](https://github.com/shashidhar078/GIVEITEVERYTHING/tree/main/0053-maximum-subarray/) | Medium |
 | [0055-jump-game](https://github.com/shashidhar078/GIVEITEVERYTHING/tree/main/0055-jump-game/) | Medium |
 | [0056-merge-intervals](https://github.com/shashidhar078/GIVEITEVERYTHING/tree/main/0056-merge-intervals/) | Medium |
@@ -97,6 +98,7 @@
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0049-group-anagrams](https://github.com/shashidhar078/GIVEITEVERYTHING/tree/main/0049-group-anagrams/) | Medium |
 | [0127-word-ladder](https://github.com/shashidhar078/GIVEITEVERYTHING/tree/main/0127-word-ladder/) | Hard |
 | [0131-palindrome-partitioning](https://github.com/shashidhar078/GIVEITEVERYTHING/tree/main/0131-palindrome-partitioning/) | Medium |
 | [0257-binary-tree-paths](https://github.com/shashidhar078/GIVEITEVERYTHING/tree/main/0257-binary-tree-paths/) | Easy |
@@ -129,6 +131,7 @@
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0049-group-anagrams](https://github.com/shashidhar078/GIVEITEVERYTHING/tree/main/0049-group-anagrams/) | Medium |
 | [0073-set-matrix-zeroes](https://github.com/shashidhar078/GIVEITEVERYTHING/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/shashidhar078/GIVEITEVERYTHING/tree/main/0105-construct-binary-tree-from-preorder-and-inorder-traversal/) | Medium |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/shashidhar078/GIVEITEVERYTHING/tree/main/0106-construct-binary-tree-from-inorder-and-postorder-traversal/) | Medium |
@@ -284,6 +287,7 @@
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0049-group-anagrams](https://github.com/shashidhar078/GIVEITEVERYTHING/tree/main/0049-group-anagrams/) | Medium |
 | [0056-merge-intervals](https://github.com/shashidhar078/GIVEITEVERYTHING/tree/main/0056-merge-intervals/) | Medium |
 | [0075-sort-colors](https://github.com/shashidhar078/GIVEITEVERYTHING/tree/main/0075-sort-colors/) | Medium |
 | [0215-kth-largest-element-in-an-array](https://github.com/shashidhar078/GIVEITEVERYTHING/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
