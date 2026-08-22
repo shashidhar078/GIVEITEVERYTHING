@@ -128,6 +128,7 @@
 | [0787-cheapest-flights-within-k-stops](https://github.com/shashidhar078/GIVEITEVERYTHING/tree/main/0787-cheapest-flights-within-k-stops/) | Medium |
 | [0907-sum-of-subarray-minimums](https://github.com/shashidhar078/GIVEITEVERYTHING/tree/main/0907-sum-of-subarray-minimums/) | Medium |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/shashidhar078/GIVEITEVERYTHING/tree/main/1373-maximum-sum-bst-in-binary-tree/) | Hard |
+| [1976-number-of-ways-to-arrive-at-destination](https://github.com/shashidhar078/GIVEITEVERYTHING/tree/main/1976-number-of-ways-to-arrive-at-destination/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -572,6 +573,7 @@
 | [0785-is-graph-bipartite](https://github.com/shashidhar078/GIVEITEVERYTHING/tree/main/0785-is-graph-bipartite/) | Medium |
 | [0787-cheapest-flights-within-k-stops](https://github.com/shashidhar078/GIVEITEVERYTHING/tree/main/0787-cheapest-flights-within-k-stops/) | Medium |
 | [0802-find-eventual-safe-states](https://github.com/shashidhar078/GIVEITEVERYTHING/tree/main/0802-find-eventual-safe-states/) | Medium |
+| [1976-number-of-ways-to-arrive-at-destination](https://github.com/shashidhar078/GIVEITEVERYTHING/tree/main/1976-number-of-ways-to-arrive-at-destination/) | Medium |
 | [2685-count-the-number-of-complete-components](https://github.com/shashidhar078/GIVEITEVERYTHING/tree/main/2685-count-the-number-of-complete-components/) | Medium |
 | [3310-remove-methods-from-project](https://github.com/shashidhar078/GIVEITEVERYTHING/tree/main/3310-remove-methods-from-project/) | Medium |
 ## Graph Coloring
@@ -587,6 +589,7 @@
 | ------- | ------- |
 | [0207-course-schedule](https://github.com/shashidhar078/GIVEITEVERYTHING/tree/main/0207-course-schedule/) | Medium |
 | [0802-find-eventual-safe-states](https://github.com/shashidhar078/GIVEITEVERYTHING/tree/main/0802-find-eventual-safe-states/) | Medium |
+| [1976-number-of-ways-to-arrive-at-destination](https://github.com/shashidhar078/GIVEITEVERYTHING/tree/main/1976-number-of-ways-to-arrive-at-destination/) | Medium |
 ## Kosaraju's Algorithm
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -608,9 +611,11 @@
 | ------- | ------- |
 | [0743-network-delay-time](https://github.com/shashidhar078/GIVEITEVERYTHING/tree/main/0743-network-delay-time/) | Medium |
 | [1631-path-with-minimum-effort](https://github.com/shashidhar078/GIVEITEVERYTHING/tree/main/1631-path-with-minimum-effort/) | Medium |
+| [1976-number-of-ways-to-arrive-at-destination](https://github.com/shashidhar078/GIVEITEVERYTHING/tree/main/1976-number-of-ways-to-arrive-at-destination/) | Medium |
 ## Shortest Path
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0743-network-delay-time](https://github.com/shashidhar078/GIVEITEVERYTHING/tree/main/0743-network-delay-time/) | Medium |
 | [0787-cheapest-flights-within-k-stops](https://github.com/shashidhar078/GIVEITEVERYTHING/tree/main/0787-cheapest-flights-within-k-stops/) | Medium |
+| [1976-number-of-ways-to-arrive-at-destination](https://github.com/shashidhar078/GIVEITEVERYTHING/tree/main/1976-number-of-ways-to-arrive-at-destination/) | Medium |
 <!---LeetCode Topics End-->
