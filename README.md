@@ -619,4 +619,8 @@
 | [0743-network-delay-time](https://github.com/shashidhar078/GIVEITEVERYTHING/tree/main/0743-network-delay-time/) | Medium |
 | [0787-cheapest-flights-within-k-stops](https://github.com/shashidhar078/GIVEITEVERYTHING/tree/main/0787-cheapest-flights-within-k-stops/) | Medium |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/shashidhar078/GIVEITEVERYTHING/tree/main/1976-number-of-ways-to-arrive-at-destination/) | Medium |
+## Database
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1757-recyclable-and-low-fat-products](https://github.com/shashidhar078/GIVEITEVERYTHING/tree/main/1757-recyclable-and-low-fat-products/) | Easy |
 <!---LeetCode Topics End-->
